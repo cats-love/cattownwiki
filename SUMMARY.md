@@ -7,6 +7,10 @@
 
 * [🌟 튜토리얼](server/serverinfo/README.md)
   * [서버 내 튜토리얼](server/tutorial/undefined.md)
+* [🌍 월드](server/undefined/README.md)
+  * [🛣️ 도시월드](server/undefined/undefined.md)
+  * [🏕️ 마을월드](server/undefined/undefined-1.md)
+  * [🏞️ 야생월드](server/undefined/undefined-2.md)
 
 ## ══.·:·.☽✧기타 ✧☾.·:·.══ <a href="#help" id="help"></a>
 
