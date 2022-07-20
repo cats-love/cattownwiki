@@ -1,15 +1,14 @@
 ---
-cover: >-
-  https://images.unsplash.com/photo-1511497584788-876760111969?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=3432&q=80
-coverY: 0
+description: 고냥이 타운의 문의 링크입니다
 ---
 
-# 🍀문의하기
+# 🐱문의
 
-To request time off, just fill in our simple form and we'll get it approved!
+## 🐱 1:1 문의
 
 {% hint style="info" %}
-**Good to know:** you can embed public links, like this Typeform, to make data capture a breeze!
+**알림은 확인하는 즉시 응답합니다**\
+****기본적으로 24시간 소통 창구를 운영하고 있으나, 알림이 늦거나 외출 중일 때는 답장이 늦을 수 있습니다.
 {% endhint %}
 
-{% embed url="https://2w3pnm4iy73.typeform.com/to/P228Ngvj" %}
+{% embed url="https://cattown.channel.io/lounge" %}

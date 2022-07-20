@@ -6,11 +6,10 @@
 
 * [🔔 규칙](server/rules.md)
 * [🐱 튜토리얼](server/serverinfo/README.md)
-  * [튜토리얼1](server/serverinfo/1.md)
+  * [서버 내 튜토리얼](server/tutorial/undefined.md)
 
 ## ══.·:·.☽✧기타 ✧☾.·:·.══ <a href="#help" id="help"></a>
 
-* [✅ 홍보](help/undefined.md)
-* [💵 후원](the-formal-stuff/filing-expenses.md)
-* [🍀문의하기](the-formal-stuff/requesting-time-off.md)
-* [Meet the Team!](help/meet-the-team.md)
+* [💵 후원](help/undefined.md)
+* [✅ 홍보](help/undefined-1.md)
+* [🐱문의](the-formal-stuff/requesting-time-off.md)

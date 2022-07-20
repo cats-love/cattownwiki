@@ -33,7 +33,7 @@ layout: editorial
 
 고냥이타운은 바닐라 마인크래프트 서버이며, 1.19 런쳐로 접속 가능합니다.
 
-![마인리스트 서버 배너, 실시간 업데이트](https://minelist.kr/servers/13768/banner/modern.png)
+![마인리스트 실시간 배너](https://minelist.kr/servers/13768/banner/modern.png)
 
 
 
