@@ -2,10 +2,12 @@
 
 * [🐱 고냥이타운에 어서 오세요!](README.md)
 
-## The Company
+## ══.·:·.☽✧서버 게시판 ✧☾.·:·.══
 
-* [Vision and Values](the-company/vision-and-values.md)
-* [Meet the Team!](the-company/meet-the-team.md)
+* [🐱 튜토리얼](.-.-.-./undefined/README.md)
+  * [튜토리얼1](.-.-.-./undefined/1.md)
+* [Page 1](.-.-.-./page-1.md)
+* [Meet the Team!](.-.-.-./meet-the-team.md)
 
 ## The Formal Stuff
 
