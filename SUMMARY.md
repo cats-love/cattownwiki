@@ -4,12 +4,13 @@
 
 ## ══.·:·.☽✧서버 게시판 ✧☾.·:·.══ <a href="#server" id="server"></a>
 
-* [🐱 튜토리얼](server/tutorial/README.md)
-  * [튜토리얼1](server/tutorial/1.md)
+* [🐱 튜토리얼](server/serverinfo/README.md)
+  * [튜토리얼1](server/serverinfo/1.md)
 * [Page 1](server/page-1.md)
 * [Meet the Team!](server/meet-the-team.md)
 
-## The Formal Stuff
+## ══.·:·.☽✧기타 ✧☾.·:·.══ <a href="#help" id="help"></a>
 
-* [Requesting Time Off](the-formal-stuff/requesting-time-off.md)
-* [Filing Expenses](the-formal-stuff/filing-expenses.md)
+* [✅ 서버홍보](help/undefined.md)
+* [💵 후원](help/undefined-1.md)
+* [🍀문의하기](help/undefined-2.md)
