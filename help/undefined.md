@@ -6,15 +6,24 @@ coverY: 0
 
 # 💵 후원
 
-To get reimbursed for your expenses, just fill in our simple form and we'll get it approved!
-
 {% hint style="warning" %}
-**사전 후원 기간:** 현재 서버 내에서 후원 시스템을 준비중이며, 순수 기부 목적의 후원만 받고 있습니다. &#x20;
+**사전 후원 기간**
+
+현재 서버 내에서 후원 시스템을 준비중이며, 순수 기부 목적의 후원만 받고 있습니다.&#x20;
+
+후원관련한 시스템을 빨리 마련하여 다양한 서비스를 드릴 수 있도록 하겠습니다.
 {% endhint %}
 
 {% hint style="danger" %}
-**환불 불가:** 후원금은 환불이 불가능합니다.
+**환불 불가**
+
+후원금 특성상 환불이 불가능합니다.
 {% endhint %}
 
-![](broken-reference)
+#### ✅ 고냥이타운의 후원은 EULA 규칙을 위반하지 않으며,  모든 후원금은 개인 목적이 아닌 컨텐츠 구매, 서버 컴퓨터 증축 등 서버를 위해 사용합니다.
 
+#### ✅ 모든 후원 내역은 후원자들에게 투명하게 공개됩니다.
+
+* 후원 사이트
+
+{% embed url="https://skhcs.com/cattown" %}
