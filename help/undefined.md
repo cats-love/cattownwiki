@@ -1,6 +1,6 @@
 ---
 description: 서버 후원에 관한 페이지입니다
-cover: ../../.gitbook/assets/제목을-입력해주세요_-001 (7).png
+cover: ../.gitbook/assets/제목을-입력해주세요_-001 (7).png
 coverY: 0
 ---
 
