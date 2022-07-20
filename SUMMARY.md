@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🐱 고냥이 타운에 어서 오세요!](README.md)
+* [고냥이 타운](README.md)
 
 ## The Company
 
