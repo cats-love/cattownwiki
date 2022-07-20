@@ -1,7 +1,7 @@
 ---
 description: 1.19 24시간 캐쥬얼 반야생, 고냥이 타운!
 coverY: 0
-layout: editorial
+layout: landing
 ---
 
 # 고냥이 타운
