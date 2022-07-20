@@ -2,7 +2,6 @@
 description: 현실과 캐쥬얼 반야생을 결합한 24시간 캐쥬얼 반야생, 고냥이 타운을 만나보세요
 cover: .gitbook/assets/2022-07-04_02.11.50.png
 coverY: 0
-layout: landing
 ---
 
 # 🐱 고냥이타운에 어서 오세요!
