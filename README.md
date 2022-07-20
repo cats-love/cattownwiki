@@ -29,8 +29,11 @@ layout: editorial
 
 
 
-#### 마인크래프트 서버 주소: cattown.kro.kr&#x20;
+## ✅ 서버 접속 방법
 
-![](https://minelist.kr/servers/13768/banner/modern.png)
+고냥이타운은 바닐라 마인크래프트 서버이며, 1.19 런쳐로 접속 가능합니다.
 
-![](.gitbook/assets/2022-07-06\_02.43.54.png)
+![마인리스트 서버 배너, 실시간 업데이트](https://minelist.kr/servers/13768/banner/modern.png)
+
+
+
