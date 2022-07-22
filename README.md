@@ -35,5 +35,6 @@ layout: editorial
 
 ![마인리스트 실시간 배너](https://minelist.kr/servers/13768/banner/modern.png)
 
+##
 
-
+{% embed url="https://discord.com/invite/wZNnH4Pb9G" %}
