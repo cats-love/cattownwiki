@@ -14,9 +14,9 @@ description: 서버 추천을 진행하고 있는 사이트 목록입니다.
 
 ✅ 마인리스트
 
-{% embed url="https://minelist.kr/servers/cattown.kro.kr" %}
+{% embed url="https://minelist.kr/servers/catmc.kr" %}
 
 ✅마인페이지&#x20;
 
-{% embed url="https://mine.page/server/cattown.kro.kr" %}
+{% embed url="https://mine.page/server/catmc.kr" %}
 
