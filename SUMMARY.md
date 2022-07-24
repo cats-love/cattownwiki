@@ -11,7 +11,7 @@
   * [✏️ 명령어](server/tutorial/undefined.md)
 * [🐾시스템](server/undefined/README.md)
   * [자동줍기](server/undefined/undefined.md)
-  * [시각화](server/undefined/undefined-1.md)
+  * [🐣 시각화](server/undefined/undefined-1.md)
   * [🪙 코인/ 교환권 / 경제](server/undefined/undefined-2.md)
 * [🎫 컨텐츠](server/undefined-1/README.md)
   * [씨앗, 작물](server/undefined-1/undefined.md)
