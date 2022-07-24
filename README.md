@@ -7,7 +7,7 @@ layout: editorial
 
 # 🐱 고냥이타운에 어서 오세요!
 
-![](<.gitbook/assets/제목을-입력해주세요\_-003 (1).jpg>)
+![](<.gitbook/assets/제목을-입력해주세요\_-003 (2).jpg>)
 
 ## 🐱 고냥이 타운에 대해 소개합니다!
 
