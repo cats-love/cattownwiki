@@ -27,14 +27,15 @@ coverY: 0
 
 ![](../../.gitbook/assets/005.png)
 
-![](../../.gitbook/assets/006.png)
+![](<../../.gitbook/assets/006 (1).jpg>)
 
 ![](../../.gitbook/assets/007.png)
 
+![](../../.gitbook/assets/008.jpg)
+
 ![](../../.gitbook/assets/009.png)
 
-![](../../.gitbook/assets/008.png)
+![](../../.gitbook/assets/010.jpg)
 
-![](../../.gitbook/assets/010.png)
+![](../../.gitbook/assets/011.jpg)
 
-![](../../.gitbook/assets/011.png)
