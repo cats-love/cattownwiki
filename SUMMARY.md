@@ -53,6 +53,7 @@
     * [🧜‍♂️커스텀 치장 스킨(갑옷)](help/undefined/50000-150000/undefined.md)
     * [음반 💽](help/undefined/50000-150000/undefined-1.md)
   * [강아지🐶 (150000\~500000)](help/undefined/150000-500000.md)
+  * [🐶 커스텀 겉날개 스킨](help/undefined/undefined-1.md)
   * [고양이😺 (500000\~)](help/undefined/500000.md)
 * [✅ 추천](help/undefined-1.md)
 * [🐱문의](the-formal-stuff/requesting-time-off.md)
