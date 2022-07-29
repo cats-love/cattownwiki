@@ -25,13 +25,15 @@ coverY: 0
 * 리스폰 정박기, 관측기, 발사기 (악용시 위험 아이템)
 * 마인카트 (지하철 전용)&#x20;
 
-![](../../.gitbook/assets/005.png)
+![](../../.gitbook/assets/004.png)
 
-![](../../.gitbook/assets/008.png)
+![](<../../.gitbook/assets/005 (1).png>)
+
+![](../../.gitbook/assets/006.png)
 
 ![](../../.gitbook/assets/007.png)
 
-
+![](<../../.gitbook/assets/008 (2).png>)
 
 ![](../../.gitbook/assets/009.png)
 

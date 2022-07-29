@@ -44,13 +44,13 @@ description: 서버 내 각종 명령어들에 대해 다룹니다
 
 ### 🏠 영역보호 명령어
 
-* **/res create (땅이름:영어)로 지역을 생성합니다** <mark style="color:green;">(384블럭/1칸당 5원){(1청크=256칸)당 약 1280원}</mark>
+* <mark style="color:green;">**/res create (땅이름:영어)로 지역을 생성합니다**</mark> <mark style="color:green;">(384블럭/1칸당 5원){(1청크=256칸)당 약 1280원}</mark>
 * /땅 /res info : 부동산 지역에서 이 명령어를 사용하면 이 땅의 주인을 볼 수 있습니다
 * /땅권한 /res set : 권한 관련 수정 기능입니다.
-* **/res expand (땅이름:영어) : (숫자) 숫자만큼 바라보는 방향으로 영역보호를 늘릴 수 있습니다 **<mark style="color:red;">**(돈 나갑니다!)**</mark>
+* <mark style="color:green;">**/res expand (땅이름:영어) (숫자): 숫자만큼 바라보는 방향으로 영역보호를 늘릴 수 있습니다**</mark>**  **<mark style="color:green;">**(해당 칸수만큼 비용이 빠져나갑니다)**</mark>
 * /res padd (플레이어) : 해당 땅에 플레이어 권한을 추가합니다.
 * /res pdel (플레이어) : 해당 땅에 플레이어 권한을 삭제합니다.
-* **/땅삭제 /res remove : 땅 안에서 이 명령어를 사용하면 땅을 지울 수 있습니다.** <mark style="color:red;">**(돈을 돌려받을 수 없습니다)**</mark>
+* <mark style="color:red;">**/땅삭제 /res remove : 땅의 비용을 돌려받고, 땅을 삭제합니다.**</mark>** (삭제 후 땅을 새로 지정할 수 있습니다)**
 * /경계선 : 주변 부동산의 경계선을 30초간 보여줍니다.
 * / 경계선 토글: 경계선을 활성화하거나 비활성화할 수 있습니다.
 
