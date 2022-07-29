@@ -15,7 +15,7 @@
   * [🪙 코인/ 교환권 / 경제](server/undefined/undefined-2.md)
   * [⚡옵티파인 전용](server/undefined/undefined-3.md)
 * [🎫 컨텐츠](server/undefined-1/README.md)
-  * [씨앗, 작물 (커스텀 농사)](server/undefined-1/undefined.md)
+  * [🥕커스텀 농사](server/undefined-1/undefined.md)
   * [요리](server/undefined-1/undefined-1.md)
   * [물고기](server/undefined-1/undefined-2.md)
   * [가구](server/undefined-1/undefined-3.md)
