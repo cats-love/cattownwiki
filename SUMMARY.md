@@ -35,7 +35,7 @@
       * [자동차 상점](server/undefined-3/undefined/undefined-1/undefined.md)
       * [가구상점](server/undefined-3/undefined/undefined-1/undefined-1.md)
       * [백화점 (유저상점)](server/undefined-3/undefined/undefined-1/undefined-2.md)
-    * [🚗교통수단](server/undefined-3/undefined/undefined-2/README.md)
+    * [🚗교통수단 (준비중)](server/undefined-3/undefined/undefined-2/README.md)
       * [🚗 자동차](server/undefined-3/undefined/undefined-2/undefined.md)
       * [🚌 버스](server/undefined-3/undefined/undefined-2/undefined-1.md)
       * [🚕 택시](server/undefined-3/undefined/undefined-2/undefined-2.md)
