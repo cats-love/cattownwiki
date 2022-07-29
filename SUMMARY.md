@@ -26,7 +26,7 @@
 * [🐹발전과제 / 퀘스트 (준비중)](server/undefined-2/undefined.md)
 * [⚔️ MCMMO](server/mcmmo.md)
 * [🌍 월드](server/undefined-3/README.md)
-  * [🛣️ 도시월드](server/undefined-3/undefined/README.md)
+  * [🛣️ 도시월드 (준비중)](server/undefined-3/undefined/README.md)
     * [공용시설](server/undefined-3/undefined/undefined/README.md)
       * [공원](server/undefined-3/undefined/undefined/undefined.md)
       * [경찰서](server/undefined-3/undefined/undefined/undefined-1.md)
