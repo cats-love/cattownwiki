@@ -6,15 +6,15 @@
 
 ### - 커스텀 리소스 로딩화면
 
-![](../../.gitbook/assets/image.png)
+![](<../../.gitbook/assets/image (3).png>)
 
 * 서버 입장 시 커스텀 로딩화면을 지원합니다.
 
 ### - 커스텀 겉날개 스킨
 
-![커스텀 겉날개 스킨 (사이버 겉날개)](<../../.gitbook/assets/image (4).png>)
+![커스텀 겉날개 스킨 (사이버 겉날개)](<../../.gitbook/assets/image (4) (2).png>)
 
-![기존 겉날개](<../../.gitbook/assets/image (2).png>)
+![기존 겉날개](<../../.gitbook/assets/image (2) (2).png>)
 
 * 서버 내에서 커스텀 겉날개 스킨을 지원합니다.&#x20;
 
