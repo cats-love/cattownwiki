@@ -58,7 +58,7 @@ description: 서버 내 각종 명령어들에 대해 다룹니다
 
 * /res message (지역이름) enter/leave "메시지" : enter-입장, leave-퇴장 메시지를 설정합니다.
 * /res message (지역이름) remove enter/leave "메시지" : 입장 또는 퇴장 메시지를 제거합니다.
-* 막대기로 땅을 우클릭하면 해당 땅의 정보가 표시됩니다
+* 막대기로 땅을 클릭하면 해당 땅의 정보가 표시됩니다
 *
 
 ### ⭐ 스타랭크 명령어
