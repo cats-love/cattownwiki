@@ -1,6 +1,6 @@
 # 🍅 커스텀 뉴작물
 
-![](<../../.gitbook/assets/image (5).png>)
+![](<../../.gitbook/assets/image (2).png>)
 
 ![](<../../.gitbook/assets/image (13).png>)
 
