@@ -27,6 +27,8 @@
 * [⚔️ MCMMO](server/mcmmo.md)
   * [발굴](server/mcmmo/undefined.md)
   * [낚시](server/mcmmo/undefined-1.md)
+  * [약초학](server/mcmmo/undefined-2.md)
+  * [채광](server/mcmmo/undefined-3.md)
 * [🌍 월드](server/undefined-3/README.md)
   * [🛣️ 도시월드 (준비중)](server/undefined-3/undefined/README.md)
     * [🏥 공용시설](server/undefined-3/undefined/undefined/README.md)
