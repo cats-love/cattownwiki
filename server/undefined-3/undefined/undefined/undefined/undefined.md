@@ -4,7 +4,7 @@ coverY: 0
 
 # 🎹 피아노
 
-![](<../../../../../.gitbook/assets/image (1) (2).png>)
+![](<../../../../../.gitbook/assets/image (1) (2) (1).png>)
 
 ![](<../../../../../.gitbook/assets/image (5) (1).png>)
 
