@@ -26,7 +26,7 @@
 * [🛖 부동산/ 마을](server/undefined-2.md)
 * [⚔️ MCMMO](server/mcmmo.md)
   * [발굴](server/mcmmo/undefined.md)
-  * [채광](server/mcmmo/undefined-1.md)
+  * [낚시](server/mcmmo/undefined-1.md)
 * [🌍 월드](server/undefined-3/README.md)
   * [🛣️ 도시월드 (준비중)](server/undefined-3/undefined/README.md)
     * [🏥 공용시설](server/undefined-3/undefined/undefined/README.md)
