@@ -23,7 +23,7 @@
   * [🪑 가구](server/undefined-1/undefined-4.md)
   * [미술](server/undefined-1/undefined-5.md)
   * [👑 치장](server/undefined-1/undefined-6.md)
-* [🛖 부동산/ 마을](server/undefined-2/README.md)
+* [🛖 부동산/ 마을](server/undefined-2.md)
   * [청크](server/undefined-2/undefined.md)
 * [⚔️ MCMMO](server/mcmmo.md)
   * [발굴](server/mcmmo/undefined.md)
