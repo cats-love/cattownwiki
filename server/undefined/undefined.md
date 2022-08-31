@@ -1,8 +1,49 @@
-# 🔎 자동줍기
+# 🍽 요리 도구
 
-{% hint style="warning" %}
-**일부 커스텀 아이템은 자동줍기가 지원되지 않습니다**
-{% endhint %}
+<figure><img src="../../.gitbook/assets/.,..png" alt=""><figcaption></figcaption></figure>
 
-* 아이템을 캘 때 자동으로 인벤에 들어오게 하는 기능입니다.
-* **/자동줍기** 명령어를 사용하여 키거나 끌 수 있습니다.
+##
+
+<div>
+
+<figure><img src="../../.gitbook/assets/제목 없음-2.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/제목 없음-3 (1).png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/제목 없음-4.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/제목 없음-5.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/제목 없음-6.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/제목-없음-7_0005_2022-08-31_10.46.23.png.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/제목-없음-7_0006_2022-08-31_10.46.26.png.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<div>
+
+<figure><img src="../../.gitbook/assets/제목-없음-7_0007_2022-08-31_10.46.30.png.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/제목-없음-7_0008_2022-08-31_10.46.34.png.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/제목-없음-7_0009_2022-08-31_10.46.37.png.png" alt=""><figcaption></figcaption></figure>
+
+</div>

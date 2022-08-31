@@ -1,63 +1,141 @@
-# 🪙 코인/ 교환권 / 경제
+# 🍧 빙과
 
-1. 추천코인 (추천)
+<figure><img src="../../.gitbook/assets/제목-없음-7_0074_2022-09-01_00.18.09.png.png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
-추천을 통해 획득 가능하며, 일부 아이템을 구매할 수 있습니다
-{% endhint %}
+<div>
 
-* 주로 반야생 컨텐츠의 도움이 되는 용품들을 판매합니다.&#x20;
-* 작물 랜덤박스, 철제 가구, 커스텀 무기, 색닉 한닉 칭호 교환권
-* 경험치 병, 빛, 투명액자, 캔버스, 초급\~최고급 가방&#x20;
+<figure><img src="../../.gitbook/assets/제목-없음-7_0041_2022-09-01_00.15.28.png.png" alt=""><figcaption></figcaption></figure>
 
+ 
 
+<figure><img src="../../.gitbook/assets/제목-없음-7_0042_2022-09-01_00.15.36.png.png" alt=""><figcaption></figcaption></figure>
 
-2\. 작물코인 (농사 컨텐츠)&#x20;
+ 
 
-{% hint style="info" %}
-커스텀 농작물 재배를 통해 획득하는 작물코인은 다양한 아이템을 교환할 수 있습니다
-{% endhint %}
+<figure><img src="../../.gitbook/assets/제목-없음-7_0043_2022-09-01_00.15.42.png.png" alt=""><figcaption></figcaption></figure>
 
-* 이젤, 경험치병, 캔버스, 빛, 투명액자, 커스텀 나무 등&#x20;
+ 
 
+<figure><img src="../../.gitbook/assets/제목-없음-7_0044_2022-09-01_00.15.46.png.png" alt=""><figcaption></figcaption></figure>
 
+</div>
 
-3\. 작물 교환권&#x20;
+<div>
 
-{% hint style="info" %}
-작물코인 64+64개를 조합하면 교환권 1개를 얻습니다&#x20;
-{% endhint %}
+<figure><img src="../../.gitbook/assets/제목-없음-7_0045_2022-09-01_00.15.50.png.png" alt=""><figcaption></figcaption></figure>
 
-* 농사 상위 아이템 (농부의 치장)을 얻는 데에 사용합니다
-* 전용 칭호 및 치장 아이템을 얻을 수 있습니다
+ 
 
+<figure><img src="../../.gitbook/assets/제목-없음-7_0046_2022-09-01_00.15.54.png.png" alt=""><figcaption></figcaption></figure>
 
+ 
 
-4\. 일반 서버 머니 (경제)
+<figure><img src="../../.gitbook/assets/제목-없음-7_0047_2022-09-01_00.15.58.png.png" alt=""><figcaption></figcaption></figure>
 
-* 야생과 퀘스트를 통해 획득 가능하며, 랭크업 및 서버상점 구매에 사용됩니다.
+ 
 
+<figure><img src="../../.gitbook/assets/제목-없음-7_0048_2022-09-01_00.16.03.png.png" alt=""><figcaption></figcaption></figure>
 
+ 
 
-5\. 고양이 코인 (도시월드 컨텐츠)
+<figure><img src="../../.gitbook/assets/제목-없음-7_0049_2022-09-01_00.16.06.png.png" alt=""><figcaption></figcaption></figure>
 
-* 퀘스트와 이벤트를 통해 획득 가능하며, 상점에서 치장 및 도시월드 아이템으로 교환할 수 있습니다&#x20;
-* 치장 아이템 및 일반 교환을 지원합니다
+ 
 
+<figure><img src="../../.gitbook/assets/제목-없음-7_0050_2022-09-01_00.16.12.png.png" alt=""><figcaption></figcaption></figure>
 
+ 
 
-6\. 후원캐쉬 (EULA 준수)
+<figure><img src="../../.gitbook/assets/제목-없음-7_0051_2022-09-01_00.16.17.png.png" alt=""><figcaption></figcaption></figure>
 
-* 후원 전용 획득 가능하며, 서버 내에서 교환할 수 없습니다&#x20;
-* 후원자 전용 치장, 자동차, 커스텀 무기 스킨, 가구, 칭호, 색한닉 교환 사용 가능&#x20;
-* 후원 전용 컨텐츠는 서버 밸런스에 무리가 안 가는 치장/장식 위주입니다.
-* 이 외 패키지 상품
+ 
 
+<figure><img src="../../.gitbook/assets/제목-없음-7_0052_2022-09-01_00.16.22.png.png" alt=""><figcaption></figcaption></figure>
 
+ 
 
-7\. 기타 획득 경로&#x20;
+<figure><img src="../../.gitbook/assets/제목-없음-7_0053_2022-09-01_00.16.27.png.png" alt=""><figcaption></figcaption></figure>
 
-* 광부 모자 : 채광 퀘스트 클리어 시 지급
-* End more!
+ 
 
-&#x20;
+<figure><img src="../../.gitbook/assets/제목-없음-7_0054_2022-09-01_00.16.32.png.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/제목-없음-7_0055_2022-09-01_00.16.36.png.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/제목-없음-7_0056_2022-09-01_00.16.41.png.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/제목-없음-7_0057_2022-09-01_00.16.45.png.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/제목-없음-7_0058_2022-09-01_00.16.49.png.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/제목-없음-7_0059_2022-09-01_00.16.53.png.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/제목-없음-7_0060_2022-09-01_00.16.57.png.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/제목-없음-7_0061_2022-09-01_00.17.01.png.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/제목-없음-7_0062_2022-09-01_00.17.04.png.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/제목-없음-7_0063_2022-09-01_00.17.08.png.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/제목-없음-7_0064_2022-09-01_00.17.35.png.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/제목-없음-7_0065_2022-09-01_00.17.40.png.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/제목-없음-7_0066_2022-09-01_00.17.44.png.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/제목-없음-7_0067_2022-09-01_00.17.47.png.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/제목-없음-7_0068_2022-09-01_00.17.51.png.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/제목-없음-7_0069_2022-09-01_00.17.55.png.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/제목-없음-7_0070_2022-09-01_00.17.58.png.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/제목-없음-7_0071_2022-09-01_00.18.01.png.png" alt=""><figcaption></figcaption></figure>
+
+</div>
+
+<div>
+
+<figure><img src="../../.gitbook/assets/제목-없음-7_0072_2022-09-01_00.18.04.png.png" alt=""><figcaption></figcaption></figure>
+
+ 
+
+<figure><img src="../../.gitbook/assets/제목-없음-7_0073_2022-09-01_00.18.07.png.png" alt=""><figcaption></figcaption></figure>
+
+</div>
