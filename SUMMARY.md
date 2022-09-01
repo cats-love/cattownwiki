@@ -46,7 +46,7 @@
   * [연금술](server/mcmmo/undefined-11.md)
   * [수리](server/mcmmo/undefined-12.md)
 * [회수](server/undefined-4.md)
-* [제련](server/undefined-5.md)
+* [제련](<server/undefined-5 (1).md>)
 * [🌍 월드](server/undefined-4/README.md)
   * [🛣️ 도시월드 (준비중)](server/undefined-4/undefined/README.md)
     * [🏥 공용시설](server/undefined-4/undefined/undefined/README.md)
@@ -66,7 +66,7 @@
       * [🚉 지하철](server/undefined-4/undefined/undefined-2/undefined-3.md)
   * [🏕️ 마을월드](server/undefined-4/undefined-1.md)
   * [🏞️ 야생월드](server/undefined-4/undefined-2.md)
-* [타우니](<server/undefined-5 (1).md>)
+* [타우니](server/undefined-5.md)
 
 ## ══.·:·.☽✧기타 ✧☾.·:·.══ <a href="#help" id="help"></a>
 
