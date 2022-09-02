@@ -17,6 +17,7 @@
   * [🍰 디저트](server/undefined/undefined-3.md)
   * [🥪 샌드위치](server/undefined/undefined-4.md)
   * [🍪 과자](server/undefined/undefined-5.md)
+  * [🥘 식사](server/undefined/undefined-6.md)
 * [🐾 시스템](server/undefined-1/README.md)
   * [🔎 자동줍기](server/undefined-1/undefined.md)
   * [🐣 시각화](server/undefined-1/undefined-1.md)
