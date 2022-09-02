@@ -14,7 +14,7 @@
 
 <div>
 
-<figure><img src="../../.gitbook/assets/제목-없음-2_0041_2022-09-02_00.20.11.png.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/제목-없음-2_0041_2022-09-02_00.20.11.png (1).png" alt=""><figcaption></figcaption></figure>
 
  
 
