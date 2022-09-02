@@ -6,7 +6,7 @@
 
 <div>
 
-<figure><img src="../../.gitbook/assets/제목 없음-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/제목 없음-2 (2).png" alt=""><figcaption></figcaption></figure>
 
  
 
