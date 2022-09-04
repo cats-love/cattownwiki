@@ -1,4 +1,3 @@
-# 🦊 커스텀 몹
+# 🍩 요리
 
-<figure><img src="../../.gitbook/assets/-_-001_2.png" alt=""><figcaption></figcaption></figure>
-
+* 요리 컨텐츠 조합시 너무 빠르게 조합하면 플러그인 내에서 오토마우스로 인식하니 천천히 조합해주세요!&#x20;
