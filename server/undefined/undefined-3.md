@@ -1,167 +1,27 @@
-# 🍰 디저트
+---
+description: 고냥이 타운의 야생월드를 소개합니다.
+---
 
-<figure><img src="../../.gitbook/assets/제목-없음-2_0000_2022-09-01_01.35.59.png.png" alt=""><figcaption></figcaption></figure>
+# 🏞️ 야생월드
 
-##
 
-<div>
 
-<figure><img src="../../.gitbook/assets/제목-없음-2_0001_2022-09-01_01.36.26.png.png" alt=""><figcaption></figcaption></figure>
+![고냥이 타운 야생월드](../../.gitbook/assets/2022-07-04\_02.17.13.png)
 
- 
+* 야생월드는 자원 채집을 위한 월드이며, 매달 초기화가 진행되어 보물과 유적을 탐방하기 적합한 월드입니다.&#x20;
+* 몬스터와 동물의 자연스폰되며, 영역보호 및 거주가 불가능합니다.
 
-<figure><img src="../../.gitbook/assets/제목-없음-2_0002_2022-09-01_01.36.29.png.png" alt=""><figcaption></figcaption></figure>
 
- 
 
-<figure><img src="../../.gitbook/assets/제목-없음-2_0003_2022-09-01_01.36.32.png.png" alt=""><figcaption></figcaption></figure>
+Q. 야생월드에서는 무엇을 할 수 있을까요?&#x20;
 
- 
+* 기존의 야생과 더불어 다양한 종류의 커스텀 나무, 커스텀 아이템, 커스텀 몹을 만나볼 수 있습니다.&#x20;
+* 초반에 야생월드에서 자원을 수집하여 돈을 모으고, 도시월드 혹은 마을월드에서 집을 지어 보세요!
 
-<figure><img src="../../.gitbook/assets/제목-없음-2_0004_2022-09-01_01.36.35.png.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>야생월드에서 볼 수 있는 커스텀 나무, 캐면 열매가 드롭된다.</p></figcaption></figure>
 
- 
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>해변가에서 볼 수 있는 "게 덫" 아이템, 캐면 랜덤 아이템을 얻을 수 있다.</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/제목-없음-2_0005_2022-09-01_01.36.39.png.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2022-08-15_21.06.02.png" alt=""><figcaption><p>서버에서 볼 수 있는 몹 중 하나인 무블룸, 꽃을 주면 색깔변경이 가능하다.</p></figcaption></figure>
 
- 
-
-<figure><img src="../../.gitbook/assets/제목-없음-2_0006_2022-09-01_01.36.44.png.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/제목-없음-2_0007_2022-09-01_01.36.51.png.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/제목-없음-2_0008_2022-09-01_01.36.54.png.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/제목-없음-2_0009_2022-09-01_01.36.57.png.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/제목-없음-2_0010_2022-09-01_01.36.59.png.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/제목-없음-2_0011_2022-09-01_01.37.02.png.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/제목-없음-2_0012_2022-09-01_01.37.05.png.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/제목-없음-2_0013_2022-09-01_01.37.09.png.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/제목-없음-2_0014_2022-09-01_01.37.12.png.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/제목-없음-2_0015_2022-09-01_01.37.15.png.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/제목-없음-2_0016_2022-09-01_01.37.19.png.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/제목-없음-2_0017_2022-09-01_01.37.22.png.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/제목-없음-2_0018_2022-09-01_01.37.25.png.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/제목-없음-2_0019_2022-09-01_01.37.28.png.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/제목-없음-2_0020_2022-09-01_01.37.31.png.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/제목-없음-2_0021_2022-09-01_01.37.35.png.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/제목-없음-2_0022_2022-09-01_01.37.39.png.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/제목-없음-2_0023_2022-09-01_01.37.41.png.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/제목-없음-2_0024_2022-09-01_01.37.45.png.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/제목-없음-2_0025_2022-09-01_01.37.48.png.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/제목-없음-2_0026_2022-09-01_01.37.51.png.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/제목-없음-2_0027_2022-09-01_01.37.54.png.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/제목-없음-2_0028_2022-09-01_01.37.57.png.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/제목-없음-2_0029_2022-09-01_01.38.00.png.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/제목-없음-2_0030_2022-09-01_01.38.02.png.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/제목-없음-2_0031_2022-09-01_01.38.05.png.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/제목-없음-2_0032_2022-09-01_01.38.08.png.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/제목-없음-2_0033_2022-09-01_01.38.11.png.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/제목-없음-2_0034_2022-09-01_01.38.14.png.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/제목-없음-2_0035_2022-09-01_01.38.16.png.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/제목-없음-2_0036_2022-09-01_01.38.19.png.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/제목-없음-2_0037_2022-09-01_01.38.21.png.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/제목-없음-2_0038_2022-09-01_01.38.23.png.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/제목-없음-2_0039_2022-09-01_01.38.26.png.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../.gitbook/assets/제목-없음-2_0040_2022-09-01_01.38.28.png.png" alt=""><figcaption></figcaption></figure>
-
-</div>
+<커스텀 몹 업데이트 게시글로 이동하기>
