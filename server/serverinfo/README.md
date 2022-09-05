@@ -29,8 +29,8 @@ coverY: 0
 
 ![](../../.gitbook/assets/006.png)
 
-{% content-ref url="../undefined/undefined-1.md" %}
-[undefined-1.md](../undefined/undefined-1.md)
+{% content-ref url="../undefined-4/undefined/" %}
+[undefined](../undefined-4/undefined/)
 {% endcontent-ref %}
 
 {% content-ref url="../undefined-4/undefined-1.md" %}
@@ -49,14 +49,14 @@ coverY: 0
 
 ![](<../../.gitbook/assets/008 (2).png>)
 
-{% content-ref url="../undefined-1/undefined-3/" %}
-[undefined-3](../undefined-1/undefined-3/)
+{% content-ref url="../undefined-3/" %}
+[undefined-3](../undefined-3/)
 {% endcontent-ref %}
 
 ![](../../.gitbook/assets/009.png)
 
-{% content-ref url="../undefined-1/mcmmo/" %}
-[mcmmo](../undefined-1/mcmmo/)
+{% content-ref url="../mcmmo.md" %}
+[mcmmo.md](../mcmmo.md)
 {% endcontent-ref %}
 
 ![](<../../.gitbook/assets/010 (1).png>)
