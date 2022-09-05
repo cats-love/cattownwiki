@@ -15,7 +15,7 @@
 * **/정렬** 명령어를 사용하여 키거나 끌 수 있습니다.
 * 상자정렬이 기본적으로 켜져 있어, 해당 창에서 상자정렬을 끌 수 있습니다.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>자동정렬 UI</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (2).png" alt=""><figcaption><p>자동정렬 UI</p></figcaption></figure>
 
 
 
