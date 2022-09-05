@@ -29,6 +29,10 @@ coverY: 0
 
 ![](../../.gitbook/assets/006.png)
 
+{% content-ref url="../undefined/undefined.md" %}
+[undefined.md](../undefined/undefined.md)
+{% endcontent-ref %}
+
 {% content-ref url="../undefined-4/undefined/" %}
 [undefined](../undefined-4/undefined/)
 {% endcontent-ref %}
@@ -63,4 +67,8 @@ coverY: 0
 
 {% content-ref url="../undefined-2/" %}
 [undefined-2](../undefined-2/)
+{% endcontent-ref %}
+
+{% content-ref url="../undefined/" %}
+[undefined](../undefined/)
 {% endcontent-ref %}
