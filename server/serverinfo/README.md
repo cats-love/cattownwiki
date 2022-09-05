@@ -25,14 +25,12 @@ coverY: 0
 * 리스폰 정박기, 관측기, 발사기 (악용시 위험 아이템)
 * 마인카트 (지하철 전용)&#x20;
 
-
-
 ![](<../../.gitbook/assets/005 (1).png>)
 
 ![](../../.gitbook/assets/006.png)
 
-{% content-ref url="../undefined-4/undefined/" %}
-[undefined](../undefined-4/undefined/)
+{% content-ref url="../undefined/undefined-1.md" %}
+[undefined-1.md](../undefined/undefined-1.md)
 {% endcontent-ref %}
 
 {% content-ref url="../undefined-4/undefined-1.md" %}
@@ -45,9 +43,24 @@ coverY: 0
 
 ![](../../.gitbook/assets/007.png)
 
+{% content-ref url="../tutorial/undefined.md" %}
+[undefined.md](../tutorial/undefined.md)
+{% endcontent-ref %}
+
 ![](<../../.gitbook/assets/008 (2).png>)
+
+{% content-ref url="../undefined-1/undefined-3/" %}
+[undefined-3](../undefined-1/undefined-3/)
+{% endcontent-ref %}
 
 ![](../../.gitbook/assets/009.png)
 
+{% content-ref url="../undefined-1/mcmmo/" %}
+[mcmmo](../undefined-1/mcmmo/)
+{% endcontent-ref %}
+
 ![](<../../.gitbook/assets/010 (1).png>)
 
+{% content-ref url="../undefined-2/" %}
+[undefined-2](../undefined-2/)
+{% endcontent-ref %}

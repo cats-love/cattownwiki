@@ -9,7 +9,7 @@
     * **유니크치장 - 유니크치장 아이템(파란색, 10000원)을 파는 상점입니다. (구, 레어치장)**\
 
 
-    <figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (3) (1) (2).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -21,4 +21,4 @@
 
 
 
-    <figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>

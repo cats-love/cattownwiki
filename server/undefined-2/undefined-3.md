@@ -1,5 +1,5 @@
-# 🦀 물고기
+# 🎣 커스텀 낚시
 
-![](../../.gitbook/assets/2022-07-06\_23.19.54.png)
+<figure><img src="../../.gitbook/assets/2022-08-15_00.45.06.png" alt=""><figcaption></figcaption></figure>
 
-* 물고기를 팔아 돈을 벌 수 있습니다
+<figure><img src="../../.gitbook/assets/2022-08-15_00.48.24.png" alt=""><figcaption></figcaption></figure>
