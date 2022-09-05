@@ -69,6 +69,6 @@ coverY: 0
 [undefined-2](../undefined-2/)
 {% endcontent-ref %}
 
-{% content-ref url="../undefined-2/undefined-6/" %}
-[undefined-6](../undefined-2/undefined-6/)
+{% content-ref url="../undefined-2/undefined-7/" %}
+[undefined-7](../undefined-2/undefined-7/)
 {% endcontent-ref %}

@@ -1,5 +1,8 @@
-# 🎣 커스텀 낚시
+# 🌳 커스텀 나무
 
-<figure><img src="../../.gitbook/assets/2022-08-15_00.45.06.png" alt=""><figcaption><p>고냥이 타운 낚시 컨텐츠 (신ㄷㅗㅅ고냥이 타운 낚시 컨텐츠 (신도시 스폰)고냥이 타운 낚시 컨텐츠 (신도시 스폰)\</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2022-08-15_01.34.13.png" alt=""><figcaption><p>단풍나무와 체리나무로 이루어진 산책로</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/2022-08-15_00.48.24.png" alt=""><figcaption></figcaption></figure>
+* 커스텀나무는 야생월드에서 자연 스폰되며, 나뭇잎을 캐면 각 나무별 드롭 아이템을 얻을 수 있습니다.
+* 나무 기둥은 캐서 나무 판자 또는 껍질 벗긴 나무 기둥으로 바꿀 수 있습니다.
+* 나무 드롭 아이템(체리나무-체리)를 활용하여 요리할 수 있습니다.
+* 스폰 상점가에서 작물코인으로 커스텀 나무를 구매할 수 있습니다.

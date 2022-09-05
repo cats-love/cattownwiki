@@ -2,7 +2,7 @@
 
 1. 추천코인 (추천)
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>추천코인 상점 / 추천코인</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (3).png" alt=""><figcaption><p>추천코인 상점 / 추천코인</p></figcaption></figure>
 
 * 추천을 통해 획득 가능하며, 일부 아이템을 구매할 수 있습니다
 * 주로 반야생 컨텐츠의 도움이 되는 용품들을 판매합니다.&#x20;
@@ -44,7 +44,7 @@
 
 5\. 고양이 코인 (퀘스트)
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (3).png" alt=""><figcaption></figcaption></figure>
 
 * 퀘스트와 이벤트를 통해 획득 가능하며, 상점에서 치장 및 아이템으로 교환할 수 있습니다&#x20;
 

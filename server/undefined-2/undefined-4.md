@@ -10,6 +10,9 @@ description: 필드조합과 다양한 경로로 획득할 수 있는 가구를 
 서버 랙을 방지하고자 청크당 최대 50개의 가구를 배치할 수 있습니다.
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/2022-08-14_23.55.48 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2022-08-14_23.55.48 (1).png" alt=""><figcaption><p>고냥이타운 신도시 가구상점 (회색 가구)</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/2022-09-03_01.50.59.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2022-09-03_01.50.59.png" alt=""><figcaption><p>고냥이타운 도시월드 스폰 상점가 옆 (조경 가구)</p></figcaption></figure>
+
+* 필드 조합(빨강, 하양, 청록,회색,조경)과 추천코인(철), 작물코인(조경2), 돈(자수정), 후원(모던)등 다양한 경로를 통해 가구 아이템을 획득하고 인테리어를 할 수 있습니다.
+* 일부 가구의 상호작용을 지원합니다. (앉기, 쓰레기통, 조합, 빛 등)
