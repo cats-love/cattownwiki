@@ -1,5 +1,9 @@
 # 🎟️ 스폰구역
 
+<스폰>
+
+<figure><img src="../../../.gitbook/assets/2022-08-15_00.16.57 (1).png" alt=""><figcaption></figcaption></figure>
+
 <스폰 중앙 분수대>
 
 <figure><img src="../../../.gitbook/assets/2022-08-15_00.18.16.png" alt=""><figcaption><p>스폰 중앙 분수대</p></figcaption></figure>
