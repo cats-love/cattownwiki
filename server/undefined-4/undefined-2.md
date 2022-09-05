@@ -24,6 +24,6 @@ Q. 야생월드에서는 무엇을 할 수 있을까요?&#x20;
 
 <figure><img src="../../.gitbook/assets/2022-08-15_21.06.02 (2).png" alt=""><figcaption><p>서버에서 볼 수 있는 몹 중 하나인 무블룸, 꽃을 주면 색깔변경이 가능하다.</p></figcaption></figure>
 
-{% content-ref url="../undefined-2/undefined-2 (1).md" %}
-[undefined-2 (1).md](<../undefined-2/undefined-2 (1).md>)
+{% content-ref url="../undefined-2/undefined-7.md" %}
+[undefined-7.md](../undefined-2/undefined-7.md)
 {% endcontent-ref %}
