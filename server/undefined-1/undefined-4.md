@@ -34,7 +34,7 @@
 
 4\. 일반 서버 머니 (경제)
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **/돈** 명령어로 자신의 돈을 확인할 수 있습니다.
 * 야생과 퀘스트를 통해 획득 가능하며,  **/상점** 및 **/유저상점** 구매에 사용됩니다.
@@ -52,7 +52,7 @@
 
 6\. 후원캐쉬 (EULA 준수)
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
 
 * **/캐시 확인** 명령어로 캐시를 확인할 수 있습니다.
 * 캐시는 후원 전용으로 획득이 가능하며, 거래가 불가능합니다.
