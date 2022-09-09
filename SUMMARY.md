@@ -26,7 +26,7 @@
   * [🏞️ 야생월드](server/undefined-4/undefined-2.md)
 * [🐾 시스템](server/undefined-1/README.md)
   * [🔎 자동줍기 / 자동정렬](server/undefined-1/undefined.md)
-  * [🐣 시각화](server/undefined-1/undefined-1.md)
+  * [🐣 시각화 / 표지판 커스텀](server/undefined-1/undefined-1.md)
   * [🥲 몹머리/ 머리 / 수리](server/undefined-1/undefined-2.md)
   * [🧗‍♀️ 엘리베이터](server/undefined-1/undefined-3.md)
   * [🪙 코인/ 교환권 / 경제](server/undefined-1/undefined-4.md)
@@ -68,12 +68,13 @@
   * [👑 치장](server/undefined-3/undefined.md)
   * [🎨 미술](server/undefined-3/undefined-1.md)
   * [🎷 악기](server/undefined-3/undefined-2.md)
-  * [📕 도서 (준비중)](server/undefined-3/undefined-3.md)
-  * [🚗교통 (준비중)](server/undefined-3/undefined-4/README.md)
-    * [🚗 자동차](server/undefined-3/undefined-4/undefined.md)
-    * [🚌 버스](server/undefined-3/undefined-4/undefined-1.md)
-    * [🚕 택시](server/undefined-3/undefined-4/undefined-2.md)
-    * [🚉 지하철](server/undefined-3/undefined-4/undefined-3.md)
+  * [🪄 페인트](server/undefined-2/undefined-11.md)
+  * [📕 도서 (준비중)](server/undefined-2/undefined-12.md)
+  * [🚗교통 (준비중)](server/undefined-2/undefined-13/README.md)
+    * [🚗 자동차](server/undefined-2/undefined-13/undefined.md)
+    * [🚌 버스](server/undefined-2/undefined-13/undefined-1.md)
+    * [🚕 택시](server/undefined-2/undefined-13/undefined-2.md)
+    * [🚉 지하철](server/undefined-2/undefined-13/undefined-3.md)
 
 ## ══.·:·.☽✧기타 ✧☾.·:·.══ <a href="#help" id="help"></a>
 
