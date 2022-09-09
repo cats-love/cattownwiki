@@ -1,6 +1,6 @@
 # 🧗‍♀️ 엘리베이터
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 엘리베이터 기능은 층을 빠르게 오가는 방법이며, 뼈블록 두개를 동일한 y좌표에  배치하여 기능을 사용할 수 있습니다.
 

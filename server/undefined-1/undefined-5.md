@@ -2,7 +2,7 @@
 
 <부동산>
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (3).png" alt=""><figcaption></figcaption></figure>
 
 * **/res create \[이름]** 으로 땅을 구매할 수 있으며, **/res remove \[이름]** 으로 땅을 팔 수 있습니다.&#x20;
 * 부동산을 잃어버렸을 경우 **/res list 명령어로 부동산 확인 후 해당하는 좌표로 직접 걸어가는 방법**과 웹지도를 확인하여 걸어가는 방법이 있습니다.
