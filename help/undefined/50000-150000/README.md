@@ -6,7 +6,7 @@ description: 고냥이 타운과 함께해주셔서 감사합니다!
 
 * <mark style="background-color:purple;">**\[발자국**</mark><mark style="background-color:purple;">🐾</mark><mark style="background-color:purple;">**]**</mark>** 칭호 지급**&#x20;
 * **커스텀 갑옷 스킨 (사이버 세트) 지급**&#x20;
-* **음반 신청 및 소유 가능**&#x20;
+* **후원 악기 (신청게시판을 통한 신청) 지**
 
 **<준비중>**
 
