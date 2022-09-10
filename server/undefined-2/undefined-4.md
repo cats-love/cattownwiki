@@ -19,13 +19,13 @@ description: 필드조합과 다양한 경로로 획득할 수 있는 가구를 
 * 고냥이 타운에서는 다양한 종류(80가지 이상)의 가구들이 있으며,  다양한 경로를 통해 가구 아이템을 획득하고 인테리어를 할 수 있습니다.
 * 일부 가구 상호작용을 지원합니다. (앉기, 쓰레기통, 조합, 빛 등)
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>필드 조합으로 획득(빨강, 하양, 청록, 회색, 조경) /ia로 확인가</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (3).png" alt=""><figcaption><p>필드 조합으로 획득(빨강, 하양, 청록, 회색, 조경) /ia로 확인가</p></figcaption></figure>
 
 
 
 <figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption><p>추천코인으로 획득 (철)</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption><p>작물코인으로 흭득 (정2)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>작물코인으로 흭득 (정2)</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption><p>서버 돈으로 획득 (자수정)</p></figcaption></figure>
 
