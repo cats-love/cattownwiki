@@ -4,7 +4,7 @@ description: 다양한 작물들을 만나보세요!
 
 # 🥕 커스텀 작물
 
-<figure><img src="../../.gitbook/assets/image (3) (3).png" alt=""><figcaption><p> 커스텀 작물, 수확하면 작물코인과 작물을 얻을 수 있다.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p> 커스텀 작물, 수확하면 작물코인과 작물을 얻을 수 있다.</p></figcaption></figure>
 
 * 기존 야생보다 작물이 추가되어, 잔디를 캐면 여러가지의 씨앗 아이템을 획득할 수 있습니다.&#x20;
 * 작물은 상점에 판매할 수 있으며, 획득하는 작물코인은 서버 상점에서 다양한 아이템으로 교환할 수 있습니다.&#x20;
