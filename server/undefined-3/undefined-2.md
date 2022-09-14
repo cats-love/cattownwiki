@@ -19,7 +19,7 @@
 
 **튜토리얼:**  [**https://blog.naver.com/ksw87581/221985679919**](https://blog.naver.com/ksw87581/221985679919)**)**
 
-<figure><img src="../../.gitbook/assets/unknown.png" alt=""><figcaption><p><strong>악기 설정과 연주</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/unknown (2).png" alt=""><figcaption><p><strong>악기 설정과 연주</strong></p></figcaption></figure>
 
 1. **악기 설정과 연주**
 
