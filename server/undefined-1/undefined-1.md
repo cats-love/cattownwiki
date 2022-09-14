@@ -11,7 +11,7 @@
 
 > 표지판 커스텀
 
-<figure><img src="../../.gitbook/assets/unknown (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/unknown (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (19).png" alt=""><figcaption><p>예시,  줄 위치 상관x</p></figcaption></figure>
 
