@@ -15,11 +15,11 @@
 
 > 합주악기 (2022.09.13)
 
-고냥이 타운에 추가한 합주악기는  **Blank In님의 도움을 받아 추가하였습니다.**님
+고냥이 타운에 추가한 합주악기는  **Blank In님의 도움을 받아 추가하였습니다.**
 
 **튜토리얼:**  [**https://blog.naver.com/ksw87581/221985679919**](https://blog.naver.com/ksw87581/221985679919)**)**
 
-<figure><img src="../../.gitbook/assets/unknown.png" alt=""><figcaption><p><strong>악기 설정과 연주</strong></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/unknown (2).png" alt=""><figcaption><p><strong>악기 설정과 연주</strong></p></figcaption></figure>
 
 1. **악기 설정과 연주**
 
