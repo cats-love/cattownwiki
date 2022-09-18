@@ -1,37 +1,3 @@
-# 🎷 악기
+# 🪄 페인트
 
-<figure><img src="../../.gitbook/assets/2022-08-31_17.25.17.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
-
-* 악기는 신도시 중앙상가 3층 악기상점에서 구매할 수 있습니다. ****&#x20;
-* 16종의 다양한 악기를 연주할 수 있으며, 낮은 솔\~ 높은 파 (노트블럭 영역)까지 연주할 수 있습니다.
-* 웅크리기(Shift)와 건반을 동시에 눌러 화음을 연주할 수 있습니다. (쉬프트+좌클릭, 쉬프트+우클릭)
-* 스케일 연주가 가능합니다.
-
-
-
-
-
-> 합주악기 (2022.09.13)
-
-고냥이 타운에 추가한 합주악기는  **Blank In님의 도움을 받아 추가하였습니다.**
-
-**튜토리얼:**  [**https://blog.naver.com/ksw87581/221985679919**](https://blog.naver.com/ksw87581/221985679919)**)**
-
-<figure><img src="../../.gitbook/assets/unknown (2).png" alt=""><figcaption><p><strong>악기 설정과 연주</strong></p></figcaption></figure>
-
-1. **악기 설정과 연주**
-
-* **손에 들고 우클릭으로 연주하며, 웅크리기(Shift)를 누른 상태에서 연주하면 반음(#)을 연주합니다.**
-* **양손 연주 기능: 주요손과 보조손에 각기 다른 악기를 마우스 좌클릭과 우클릭으로 따로 연주할 수 있습니다.**
-
-**2. 악보기능**
-
-* **책과 깃펜에 악보 양식대로 악보를 적을 시 악기로 연주가 가능합니다. (튜토리얼 참고)**
-
-**3. 합주기능**
-
-* **지휘자를 등록할 시 등록한 사람이 악보연주 명령어를 사용하였을 경우 자신도 연주를 시작합니다.**
-
-****
+<figure><img src="../../.gitbook/assets/unknown.png" alt=""><figcaption></figcaption></figure>
