@@ -4,6 +4,30 @@ description: 사람들과 같이 다양한 보드게임을 즐겨보세요.
 
 # 🎲 보드게임
 
-<figure><img src="../../.gitbook/assets/3.jpg" alt=""><figcaption></figcaption></figure>
+{% hint style="danger" %}
+**보드게임 판에 삼지창을 날리지 마세요**
 
-<figure><img src="../../.gitbook/assets/4.jpg" alt=""><figcaption></figcaption></figure>
+삼지창이 증발할 수 있으며, 이에 대한 복구가 불가능합니다.
+{% endhint %}
+
+{% hint style="warning" %}
+**영역보호를 적용받지 않는 아이템입니다**
+
+원하는 장소에서 설치할 수 있으며, 공용 장소에서 제거를 안할 시 경고의 대상이 될 수 있습니다.
+{% endhint %}
+
+🎲 보드게
+
+(사진)&#x20;
+
+
+
+* 보드게임은 사람들과 모여서 할 수 있으며, 체스 외 9종의 보드게임이 있습니다( 바둑, 체커, 틱택토, 우노 등등)
+* :white\_check\_mark: 판매 장소 : 신도시 스폰 앞 npc (추천코인 4개로 교환 가능)
+
+
+
+⭕️ 보드게임을 즐기는 방법
+
+* &#x20;:one: 우클릭으로 게임을 개최하고 참여자를 모집한다.
+* &#x20;:two: 일부 보드게임에서는 상세 설정으로 시간 조절 또는 베팅이 가능하다.&#x20;
