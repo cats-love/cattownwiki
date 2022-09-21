@@ -70,7 +70,7 @@
   * [🎨 미술](server/undefined-3/undefined.md)
   * [🎷 악기](server/undefined-3/undefined-1.md)
   * [🪄 페인트](server/undefined-3/undefined-2.md)
-  * [🎲 보드게임 (준비중)](server/undefined-3/undefined-3.md)
+  * [🎲 보드게임](server/undefined-3/undefined-3.md)
   * [📕 도서 (준비중)](server/undefined-3/undefined-4.md)
   * [🚗교통 (준비중)](server/undefined-3/undefined-5/README.md)
     * [🚗 자동차](server/undefined-3/undefined-5/undefined.md)
