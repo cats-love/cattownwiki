@@ -25,7 +25,7 @@ description: 필드조합과 다양한 경로로 획득할 수 있는 가구를 
 
 <figure><img src="../../.gitbook/assets/image (22).png" alt=""><figcaption><p>추천코인으로 획득 (철)</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>작물코인으로 흭득 (정2)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (3).png" alt=""><figcaption><p>작물코인으로 흭득 (정2)</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption><p>서버 돈으로 획득 (자수정)</p></figcaption></figure>
 
