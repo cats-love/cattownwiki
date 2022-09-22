@@ -18,9 +18,9 @@ description: 사람들과 같이 다양한 보드게임을 즐겨보세요.
 
 
 
-<figure><img src="../../.gitbook/assets/3 (4).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/3 (1).jpg" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/4 (4).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/4.jpg" alt=""><figcaption></figcaption></figure>
 
 * 🎲 보드게임 종류: 체스, 바둑, 스도쿠, 지뢰찾기, 체커, 틱택토, 우노&#x20;
 * :white\_check\_mark: 판매 장소 : 신도시 스폰 앞 npc (추천코인 4개로 교환 가능)
