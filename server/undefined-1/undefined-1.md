@@ -2,7 +2,7 @@
 
 1. 추천코인 (추천)
 
-<figure><img src="../../.gitbook/assets/image (8) (3) (1) (1).png" alt=""><figcaption><p>추천코인 상점 / 추천코인</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (3) (1).png" alt=""><figcaption><p>추천코인 상점 / 추천코인</p></figcaption></figure>
 
 * 추천을 통해 획득 가능하며, 일부 아이템을 구매할 수 있습니다
 * 주로 반야생 컨텐츠의 도움이 되는 용품들을 판매합니다.&#x20;
@@ -34,7 +34,7 @@
 
 4\. 일반 서버 머니 (경제)
 
-<figure><img src="../../.gitbook/assets/image (9) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 * **/돈** 명령어로 자신의 돈을 확인할 수 있습니다.
 * 야생과 퀘스트를 통해 획득 가능하며,  **/상점** 및 **/유저상점** 구매에 사용됩니다.
