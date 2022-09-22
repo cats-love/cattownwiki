@@ -1,3 +1,7 @@
+---
+description: 마인크래프트를 활용한 다양한 악기 컨텐츠를 만나보세요
+---
+
 # 🎷 악기
 
 <figure><img src="../../.gitbook/assets/2022-08-31_17.25.17.png" alt=""><figcaption><p>고냥이 타운의 악기 컨텐츠</p></figcaption></figure>
@@ -19,7 +23,7 @@
 
 **튜토리얼:**  [**https://blog.naver.com/ksw87581/221985679919**](https://blog.naver.com/ksw87581/221985679919)**)**
 
-<figure><img src="../../.gitbook/assets/unknown (2).png" alt=""><figcaption><p>합주악기 밴드</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/unknown (2) (1).png" alt=""><figcaption><p>합주악기 밴드</p></figcaption></figure>
 
 기존 일반악기와의 차이점
 
