@@ -34,7 +34,7 @@
 
 4\. 일반 서버 머니 (경제)
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (2).png" alt=""><figcaption></figcaption></figure>
 
 * **/돈** 명령어로 자신의 돈을 확인할 수 있습니다.
 * 야생과 퀘스트를 통해 획득 가능하며,  **/상점** 및 **/유저상점** 구매에 사용됩니다.
