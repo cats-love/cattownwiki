@@ -12,4 +12,4 @@ description: 서버 내 다양한 건축물을 만나볼 수 있는 웹지도를
 
 * 웹지도 열기
 
-{% embed url="https://map.catmc.kr/" %}
+{% embed url="http://map.catmc.kr:10059/" %}
