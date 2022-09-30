@@ -31,6 +31,8 @@ description: 마인크래프트를 활용한 다양한 악기 컨텐츠를 만�
 
 <figure><img src="../../.gitbook/assets/unknown (2).png" alt=""><figcaption><p>합주악기 밴드</p></figcaption></figure>
 
+{% embed url="https://youtu.be/KOC9fRperrg" %}
+
 기존 일반악기와의 차이점
 
 * 악보기능, 합주기능의 추가 및 악기 컨트롤 방식이 심화되었습니다.&#x20;
