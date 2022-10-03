@@ -10,6 +10,8 @@
 
 <figure><img src="../../.gitbook/assets/2022-08-15_00.56.40.png" alt=""><figcaption><p>뉴작물 상점에서는 작물의 생장 단계와 판매하는 아이템을 볼 수 있다.</p></figcaption></figure>
 
+{% embed url="https://www.youtube.com/watch?v=4pk_q640DAs" %}
+
 > 뉴작물 튜토리얼&#x20;
 
 * **뉴작물 상점에서 전용 토양을 구매하여 전용 씨앗을 심고, 물뿌리개 또는 스프링쿨러로 물을 충분히 준 상태에서 하루마다 1단계씩 성장합니다.**&#x20;
