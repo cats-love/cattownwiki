@@ -10,7 +10,7 @@ description: 서버 내 다양한 건축물을 만나볼 수 있는 웹지도를
 해당 월드는 한달 간격으로 초기화되며 청크가 자주 변경되는 월드입니다.
 {% endhint %}
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
 
 * 웹지도 열기
 

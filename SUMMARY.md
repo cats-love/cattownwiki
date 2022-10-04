@@ -38,7 +38,7 @@
     * [🐕 조련](server/mcmmo/undefined-8.md)
     * [🫱 비무장](server/mcmmo/undefined-9.md)
     * [🦘 곡예](server/mcmmo/undefined-10.md)
-    * [💊 연금술](server/mcmmo/undefined-11.md)
+    * [💛 연금술](server/mcmmo/undefined-11.md)
     * [👨‍🔧 수리](server/mcmmo/undefined-12.md)
     * [🔧 제련](<server/undefined-5 (1).md>)
     * [🔧 회수](server/undefined-4.md)
