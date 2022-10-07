@@ -2,6 +2,10 @@
 
 <figure><img src="../../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="info" %}
+**뼈블록을 엘리베이터로 이용하며, 직접 조합하여 만들 수 있습니다.**
+{% endhint %}
+
 엘리베이터 기능은 층을 빠르게 오가는 방법이며, 뼈블록 두개를 동일한 y좌표에  배치하여 기능을 사용할 수 있습니다.
 
 * 스페이스로 올라갈 수 있고, 쉬프트로 내려갈 수 있습니다.
