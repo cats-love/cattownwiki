@@ -1,3 +1,6 @@
-# 🖼️ 박물관 (건축중)
+# 🖼️ 박물관
 
-박물관은 현재 신도시에 건축 중인 건물입니다.
+<figure><img src="../../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+
+* 다양한 몬스터를 박물관에서 만나보세요!
+* 박물관은 /warp 박물관 명령어로도 이동할 수 있습니다.

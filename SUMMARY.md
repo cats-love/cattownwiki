@@ -20,7 +20,7 @@
     * [🥘 음식점](server/undefined/undefined/undefined-3.md)
     * [🏨 호텔](server/undefined/undefined/undefined-4.md)
     * [🎨 미술관](server/undefined/undefined/undefined-5.md)
-    * [🖼️ 박물관 (건축중)](server/undefined/undefined/undefined-6.md)
+    * [🖼️ 박물관](server/undefined/undefined/undefined-6.md)
   * [🛣️ 도시월드](server/undefined-4/undefined/README.md)
   * [🏕️ 마을월드](server/undefined-4/undefined-1.md)
   * [🏞️ 야생월드](server/undefined-4/undefined-2.md)
