@@ -22,12 +22,10 @@ description: 마인크래프트를 활용한 다양한 악기 컨텐츠를 만�
 > 합주악기  **by. Blank In**
 
 {% hint style="warning" %}
-**난이도가 있는 악기입니다.**
+**악보 제작 시 난이도가 있는 악기입니다.**
 
-악보 제작 시 외부 튜토리얼 링크를 꼭 숙지해 주세요!
+튜토리얼을 꼭 숙지해 주세요!
 {% endhint %}
-
-**튜토리얼:** [**htps://blog.naver.com/ksw87581/221985679919**](https://blog.naver.com/ksw87581/221985679919)**)**
 
 <figure><img src="../../.gitbook/assets/unknown (2).png" alt=""><figcaption><p>합주악기 밴드</p></figcaption></figure>
 
@@ -35,7 +33,7 @@ description: 마인크래프트를 활용한 다양한 악기 컨텐츠를 만�
 
 기존 일반악기와의 차이점
 
-* 악보기능, 합주기능의 추가 및 악기 컨트롤 방식이 심화되었습니다.&#x20;
+* 악보기능, 합주기능의 추가 및 악기 컨트롤 방식이 변경되었습니다.  (손으로 연주 가능)
 
 **1. 악기 설정과 연주**
 
@@ -52,7 +50,7 @@ description: 마인크래프트를 활용한 다양한 악기 컨텐츠를 만�
 
 > &#x20;**🎼 악보 작성 튜토리얼**&#x20;
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption><p>반짝반짝 작은별 예제 악보</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>반짝반짝 작은별 예제 악보</p></figcaption></figure>
 
 > **🎼 고냥이타운의 악보는 책과 깃펜에 숫자를 적어 넣어 작성합니다.**
 
@@ -83,6 +81,8 @@ description: 마인크래프트를 활용한 다양한 악기 컨텐츠를 만�
 * 다음 숫자로 넘어갈 때는 반드시 띄어쓰기 혹은 줄바꿈을 1회만 입력해 주세요.
 
 😺 **음과 박자를 이용해 자신만의 악보를 만들어보세요!  (이 부분을 읽고 잘 모르시겠다면, 질문게시판에 상세히 남겨주시길 바랍니다!)**&#x20;
+
+😺 **상세 튜토리얼:**  [**htps://blog.naver.com/ksw87581/221985679919**](https://blog.naver.com/ksw87581/221985679919)****
 
 
 

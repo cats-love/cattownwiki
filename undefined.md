@@ -24,7 +24,7 @@ description: 고냥이 타운의 커뮤니티, 디스코드를 소개합니다!
 
 **디스코드 내에서 사용**
 
-<figure><img src=".gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (9) (3).png" alt=""><figcaption></figcaption></figure>
 
 * **playerlist, /playerlist** 명령어로 현재 접속중인 플레이어를 볼 수 있습니다.
 

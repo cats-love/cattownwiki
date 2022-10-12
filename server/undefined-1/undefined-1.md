@@ -52,7 +52,7 @@
 
 6\. 후원캐쉬 (EULA 준수)
 
-<figure><img src="../../.gitbook/assets/image (13) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
 
 * **/캐시 확인** 명령어로 캐시를 확인할 수 있습니다.
 * 캐시는 후원 전용으로 획득이 가능하며, 거래가 불가능합니다.
