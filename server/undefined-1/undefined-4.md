@@ -6,7 +6,7 @@
 **위더와  커스텀 몬스터를 제외한 몹 머리**를 획득할 수 있습니다.&#x20;
 {% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (4).png" alt=""><figcaption></figcaption></figure>
 
 몹 머리는 야생에서 바닐라 몬스터를 잡으면  1%의 확률로 드롭되며, 약탈을 부여하면 최대 3%까지 획득확률이 증가합니다.
 
