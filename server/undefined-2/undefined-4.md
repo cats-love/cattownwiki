@@ -37,6 +37,6 @@ description: 필드조합과 다양한 경로로 획득할 수 있는 가구를 
 
 <figure><img src="../../.gitbook/assets/image (8) (4).png" alt=""><figcaption><p>작물 교환권으로 흭득 (정2)</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (20).png" alt=""><figcaption><p>서버 돈으로 획득 (자수정)</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (20) (1).png" alt=""><figcaption><p>서버 돈으로 획득 (자수정)</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption><p>서버 돈 및 추천으로 획득 (모던)</p></figcaption></figure>

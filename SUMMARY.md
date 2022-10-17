@@ -56,7 +56,7 @@
   * [🍩 커스텀 요리](server/undefined-2/undefined-2.md)
   * [🪑 커스텀 가구](server/undefined-2/undefined-4.md)
   * [📔 커스텀 레시피](server/undefined-2/undefined-7/README.md)
-    * [😺 찾기 힘든 조합법](server/undefined-2/undefined-6/undefined.md)
+    * [😺 화로를 사용하는 조합법](server/undefined-2/undefined-6/undefined.md)
     * [🍽 요리 도구](server/undefined-2/undefined-6/undefined-1.md)
     * [🍴 요리 재료](server/undefined-2/undefined-6/undefined-2.md)
     * [🍧 빙과](server/undefined-2/undefined-6/undefined-3.md)

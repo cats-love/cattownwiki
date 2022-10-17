@@ -12,7 +12,7 @@
 
 2\. 작물코인 (농사 컨텐츠)&#x20;
 
-<figure><img src="../../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (18) (2).png" alt=""><figcaption></figcaption></figure>
 
 * 커스텀 농작물 재배를 통해 획득하는 작물코인은 다양한 아이템을 교환할 수 있습니다
 * 전용 아이템: 커스텀 나무 등
@@ -21,7 +21,7 @@
 
 3\. 작물 교환권&#x20;
 
-<figure><img src="../../.gitbook/assets/image (17).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (17) (2).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 작물코인 64+64개를 조합하면 교환권 1개를 얻습니다&#x20;
@@ -52,7 +52,7 @@
 
 6\. 후원캐쉬 (EULA 준수)
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (13) (2).png" alt=""><figcaption></figcaption></figure>
 
 * **/캐시 확인** 명령어로 캐시를 확인할 수 있습니다.
 * 캐시는 후원 전용으로 획득이 가능하며, 거래가 불가능합니다.
