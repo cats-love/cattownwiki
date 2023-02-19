@@ -1,27 +1,21 @@
----
-description: 사람들과 같이 다양한 보드게임을 즐겨보세요.
----
+# 🐣 표지판 커스텀
 
-# 🎲 보드게임
+> 표지판 커스텀
 
-{% hint style="danger" %}
-**보드게임 판에 삼지창을 날리지 마세요**
+<figure><img src="../../.gitbook/assets/제목을 입력해주세요_-004 (1).png" alt=""><figcaption><p>표지판의 색깔을 색깔 코드를 사용하여 자유롭게 변경할 수 있으며, 표지판 코드를 적용하여 커스텀 마이징이 가능합니다.</p></figcaption></figure>
 
-삼지창이 증발할 수 있으며, 이에 대한 복구가 불가능합니다.
-{% endhint %}
+**:glass\_sg:** ->유리 표지판&#x20;
 
-{% hint style="warning" %}
-**영역보호를 적용받지 않는 아이템입니다**
+**:glass\_sg2:** ->유리(중형) 표지판&#x20;
 
-원하는 장소에 설치할 수 있으며, 공용 장소에서 제거를 안할 시 경고의 대상이 될 수 있습니다.
-{% endhint %}
+**:green\_screen:** ->크로마키 표지판&#x20;
 
+**:gold\_border:** ->금 외관장식 표지판&#x20;
 
+**:quartz\_border:** ->석영 외관장식 표지판&#x20;
 
-<figure><img src="../../.gitbook/assets/3 (3).jpg" alt=""><figcaption></figcaption></figure>
+**:wood\_border:** ->나무 외관장식 표지판
 
-<figure><img src="../../.gitbook/assets/4 (2).jpg" alt=""><figcaption></figcaption></figure>
+**:exit\_sg**: -> 출구 표지판
 
-* 🎲 보드게임 종류: 체스, 바둑, 스도쿠, 지뢰찾기, 체커, 틱택토, 우노 등 9종
-* :white\_check\_mark: 판매 장소 : 신도시 스폰 앞 npc (추천코인 4개로 교환 가능)
-
+**:caution\_sg**: -> 추락주의 표지판
