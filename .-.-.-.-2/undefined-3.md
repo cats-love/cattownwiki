@@ -1,5 +1,5 @@
 ---
-description: ✨ 224개의 신규 블럭과 조합식이 추가된 고냥이타운 컨텐츠
+description: ✨ 224개의 페인트 신규 블럭과 조합식이 추가된 고냥이타운 컨텐츠
 cover: ../.gitbook/assets/2023-02-08_10.43.03.png
 coverY: 0
 ---
