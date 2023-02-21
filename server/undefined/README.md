@@ -46,7 +46,7 @@ coverY: 0
 
 
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>야생월드에서 볼 수 있는 커스텀 나무, 캐면 열매가 드롭된다.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>야생월드에서 볼 수 있는 커스텀 나무, 캐면 열매가 드롭된다.</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/2022-08-15_21.06.02 (1).png" alt=""><figcaption><p>서버에서 볼 수 있는 몹 중 하나인 무블룸, 꽃을 주면 색깔변경이 가능하다.</p></figcaption></figure>
 {% endtab %}
