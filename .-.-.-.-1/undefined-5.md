@@ -1,0 +1,54 @@
+---
+description: 필드조합과 다양한 경로로 획득할 수 있는 가구를 통해, 다채로운 인테리어를 즐겨 보세요!
+---
+
+# 🪑 가구
+
+{% hint style="info" %}
+**청크당 가구 수 제한 안내**
+
+청크당 최대 64개의 가구를 배치할 수 있습니다.
+
+* 엔티티란 갑옷거치대, 아이템액자, 투명액자, 몹을 전부  포함하며, **청크 내 엔티티 총량이 64개가 넘어갈 경우, 가구 설치가 불가능**합니다.
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/2022-08-14_23.55.48 (1).png" alt=""><figcaption><p>고냥이타운 신도시 가구상점 (회색 가구)</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/2022-09-03_01.50.59.png" alt=""><figcaption><p>고냥이타운 도시월드 스폰 상점가 옆 (조경 가구)</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/unknown (2).png" alt=""><figcaption><p>가구상점 최상층, 모던 가구</p></figcaption></figure>
+
+
+
+* 고냥이 타운에서는 다양한 종류(100가지 이상)의 가구들이 있으며,  다양한 경로를 통해 가구 아이템을 획득하고 인테리어를 할 수 있습니다.
+* 일부 가구 상호작용을 지원합니다. (앉기, 쓰레기통, 조합 등)
+* **/warp 가구상점 명령어로 가구 체험이 가능합니다!**\
+
+
+{% hint style="info" %}
+**각각의 가구 획득 경로 안내**
+
+* **빨강, 하양, 청록, 회색, 조경, 상점 가구 -> 필드조합으로 획득 가능 (/ia 명령어 사용)**
+* **조경가구 2 -> 작물 교환권으로 획득 가능**
+* **모던, 자수정  -> 서버 돈으로 획득 가능**&#x20;
+* **철 -> 추천코인으로 획득 가능**
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/image (165).png" alt=""><figcaption><p>필드 조합으로 획득(빨강, 하양, 청록, 회색, 조경)</p></figcaption></figure>
+
+
+
+<figure><img src="../.gitbook/assets/image (168).png" alt=""><figcaption><p>추천코인으로 획득 (철)</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (174).png" alt=""><figcaption><p>작물 교환권으로 흭득 (정2)</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (70).png" alt=""><figcaption><p>서버 돈으로 획득 (자수정)</p></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/unknown (6).png" alt=""><figcaption><p>서버 돈으로 획득 (모던)</p></figcaption></figure>
+
+
+
+<figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption><p>필드 조합으로 획득 (상점) </p></figcaption></figure>
+
+
+

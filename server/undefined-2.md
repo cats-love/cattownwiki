@@ -32,7 +32,7 @@
 
 5\. 고양이 코인 (퀘스트) / 예정
 
-<figure><img src="../.gitbook/assets/image (137).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (137) (1).png" alt=""><figcaption></figcaption></figure>
 
 * 퀘스트와 이벤트를 통해 획득 가능하며, 상점에서 치장 및 아이템으로 교환할 수 있습니다&#x20;
 
