@@ -106,7 +106,7 @@ coverY: 0
 
  
 
-<figure><img src="../../.gitbook/assets/image (49).png" alt=""><figcaption><p>치장 목록</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (49) (1).png" alt=""><figcaption><p>치장 목록</p></figcaption></figure>
 
 </div>
 
