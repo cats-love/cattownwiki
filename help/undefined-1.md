@@ -11,11 +11,11 @@ coverY: 0
 모두 추천 시, **다이아몬드**가 지급됩니다.
 {% endhint %}
 
-✅ 마인리스트
+### ✅ 마인리스트
 
 {% embed url="https://minelist.kr/servers/catmc.kr" %}
 
-✅마인페이지&#x20;
+### ✅마인페이지&#x20;
 
 {% embed url="https://mine.page/server/catmc.kr" %}
 
