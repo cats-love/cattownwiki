@@ -201,7 +201,7 @@ coverY: 0
 
 * **무기스킨도 포함하여 지급합니다.**
 
-<figure><img src="../.gitbook/assets/image (74).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (74) (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 
