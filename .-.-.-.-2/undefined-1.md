@@ -12,7 +12,7 @@ coverY: 0
 
 ## 일반악기
 
-<figure><img src="../.gitbook/assets/Animation.gif" alt=""><figcaption><p>일반악기 연주 GUI</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Animation (3).gif" alt=""><figcaption><p>일반악기 연주 GUI</p></figcaption></figure>
 
 일반악기는 간편한 연주가 가능한 악기로, 악기상점에 위치한 액자상점에서 **소지금 10만원**을 주고 구매할 수 있습니다. 우클릭하면 악기를 연주할 수 있는 GUI를 오픈하며, 건반을 클릭하여 노트블럭 영역(낮은 파#\~높은 파)의 소리를 연주할 수 있습니다. 연주 시에는 파티클이 반짝입니다.
 
@@ -31,12 +31,12 @@ coverY: 0
 
 일반악기는 16종의 악기가 있습니다.&#x20;
 
-|                                       | 이름  |                                        | 이름    |                                    | 이름   |                                      | 이름     |
-| ------------------------------------- | --- | -------------------------------------- | ----- | ---------------------------------- | ---- | ------------------------------------ | ------ |
-| ![](../.gitbook/assets/piano.png)     | 피아노 | ![](../.gitbook/assets/flute.png)      | 플루트   | ![](../.gitbook/assets/guitar.png) | 기타   | ![](../.gitbook/assets/bass.png)     | 베이스 기타 |
-| ![](../.gitbook/assets/xylophone.png) | 실로폰 | ![](../.gitbook/assets/vibraphone.png) | 철 실로폰 | ![](../.gitbook/assets/snare.png)  | 작은 북 | ![](../.gitbook/assets/bassdrum.png) | 베이스 드럼 |
-| ![](../.gitbook/assets/bits.png)      | 비트  | ![](../.gitbook/assets/pling.png)      | 플링    | ![](../.gitbook/assets/banjo.png)  | 벤조   | ![](../.gitbook/assets/dg.png)       | 디저리두   |
-| ![](../.gitbook/assets/bell.png)      | 벨   | ![](../.gitbook/assets/cowbell.png)    | 카우벨   | ![](../.gitbook/assets/chimes.png) | 차임   | ![](../.gitbook/assets/sticks.png)   | 막대기    |
+|                                       | 이름  |                                         | 이름    |                                    | 이름   |                                      | 이름     |
+| ------------------------------------- | --- | --------------------------------------- | ----- | ---------------------------------- | ---- | ------------------------------------ | ------ |
+| ![](../.gitbook/assets/piano.png)     | 피아노 | ![](<../.gitbook/assets/flute (1).png>) | 플루트   | ![](../.gitbook/assets/guitar.png) | 기타   | ![](../.gitbook/assets/bass.png)     | 베이스 기타 |
+| ![](../.gitbook/assets/xylophone.png) | 실로폰 | ![](../.gitbook/assets/vibraphone.png)  | 철 실로폰 | ![](../.gitbook/assets/snare.png)  | 작은 북 | ![](../.gitbook/assets/bassdrum.png) | 베이스 드럼 |
+| ![](../.gitbook/assets/bits.png)      | 비트  | ![](../.gitbook/assets/pling.png)       | 플링    | ![](../.gitbook/assets/banjo.png)  | 벤조   | ![](../.gitbook/assets/dg.png)       | 디저리두   |
+| ![](../.gitbook/assets/bell.png)      | 벨   | ![](../.gitbook/assets/cowbell.png)     | 카우벨   | ![](../.gitbook/assets/chimes.png) | 차임   | ![](../.gitbook/assets/sticks.png)   | 막대기    |
 
 ## 합주악기 (By.Blank In)
 
@@ -84,7 +84,7 @@ coverY: 0
 
 반짝반짝 작은별의 악보를 예시로 들어 설명해보겠습니다.
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>반짝반짝 작은별 예제 악보</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption><p>반짝반짝 작은별 예제 악보</p></figcaption></figure>
 
 * 해당 악보에서 왼쪽은 음계, 오른쪽은 박자입니다.\
   **음계**는 **피아노의 계이름**을 말하며, 0\~14까지 있고, 악기를 들고 연주하면 나오는 계이름과 똑같습니다. \

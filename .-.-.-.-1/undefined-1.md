@@ -1,6 +1,6 @@
 # 🌳 벌목
 
-<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption><p>단풍나무와 체리나무로 이루어진 산책로</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>단풍나무와 체리나무로 이루어진 산책로</p></figcaption></figure>
 
 * 커스텀 나무는 야생월드에서 자연 스폰되며, 나뭇잎을 캐면 각 나무별 드롭 아이템을 얻을 수 있습니다.
 * 나무 기둥은 캐서 나무 판자 또는 껍질 벗긴 나무 기둥으로 바꿀 수 있습니다.
