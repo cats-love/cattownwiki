@@ -31,12 +31,12 @@ coverY: 0
 
 일반악기는 16종의 악기가 있습니다.&#x20;
 
-|                                       | 이름  |                                         | 이름    |                                    | 이름   |                                      | 이름     |
-| ------------------------------------- | --- | --------------------------------------- | ----- | ---------------------------------- | ---- | ------------------------------------ | ------ |
-| ![](../.gitbook/assets/piano.png)     | 피아노 | ![](<../.gitbook/assets/flute (1).png>) | 플루트   | ![](../.gitbook/assets/guitar.png) | 기타   | ![](../.gitbook/assets/bass.png)     | 베이스 기타 |
-| ![](../.gitbook/assets/xylophone.png) | 실로폰 | ![](../.gitbook/assets/vibraphone.png)  | 철 실로폰 | ![](../.gitbook/assets/snare.png)  | 작은 북 | ![](../.gitbook/assets/bassdrum.png) | 베이스 드럼 |
-| ![](../.gitbook/assets/bits.png)      | 비트  | ![](../.gitbook/assets/pling.png)       | 플링    | ![](../.gitbook/assets/banjo.png)  | 벤조   | ![](../.gitbook/assets/dg.png)       | 디저리두   |
-| ![](../.gitbook/assets/bell.png)      | 벨   | ![](../.gitbook/assets/cowbell.png)     | 카우벨   | ![](../.gitbook/assets/chimes.png) | 차임   | ![](../.gitbook/assets/sticks.png)   | 막대기    |
+|                                       | 이름  |                                             | 이름    |                                    | 이름   |                                      | 이름     |
+| ------------------------------------- | --- | ------------------------------------------- | ----- | ---------------------------------- | ---- | ------------------------------------ | ------ |
+| ![](../.gitbook/assets/piano.png)     | 피아노 | ![](<../.gitbook/assets/flute (1) (1).png>) | 플루트   | ![](../.gitbook/assets/guitar.png) | 기타   | ![](../.gitbook/assets/bass.png)     | 베이스 기타 |
+| ![](../.gitbook/assets/xylophone.png) | 실로폰 | ![](../.gitbook/assets/vibraphone.png)      | 철 실로폰 | ![](../.gitbook/assets/snare.png)  | 작은 북 | ![](../.gitbook/assets/bassdrum.png) | 베이스 드럼 |
+| ![](../.gitbook/assets/bits.png)      | 비트  | ![](<../.gitbook/assets/pling (1).png>)     | 플링    | ![](../.gitbook/assets/banjo.png)  | 벤조   | ![](../.gitbook/assets/dg.png)       | 디저리두   |
+| ![](../.gitbook/assets/bell.png)      | 벨   | ![](../.gitbook/assets/cowbell.png)         | 카우벨   | ![](../.gitbook/assets/chimes.png) | 차임   | ![](../.gitbook/assets/sticks.png)   | 막대기    |
 
 ## 합주악기 (By.Blank In)
 
