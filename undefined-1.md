@@ -21,4 +21,4 @@ description: 고냥이 타운의 커뮤니티, 디스코드를 소개합니다!
 
 * 디스코드 링크
 
-{% embed url="http://catmap.mcv.kr:10059/" %}
+{% embed url="https://discord.gg/wZNnH4Pb9G" %}
