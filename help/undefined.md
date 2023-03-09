@@ -58,7 +58,7 @@ coverY: 0
 
 <figure><img src="../.gitbook/assets/image (156).png" alt=""><figcaption></figcaption></figure>
 
-* **인게임 이미지는 디스코드 **<mark style="color:orange;">**《🐱ㆍ후원역할-신청》**</mark> **게시판을 통해 **<mark style="color:orange;">**최대 3개까지 추가 가능**</mark>**하며, 블록 5x5 사이즈 이하만 가능합니다.** &#x20;
+* **인게임 이미지는 디스코드 **<mark style="color:orange;">**《🐱ㆍ후원역할-신청》**</mark> **게시판을 통해 **<mark style="color:orange;">**최대 3개까지 추가 가능**</mark>**하며, 블록 7x7 사이즈 이하만 가능합니다.** &#x20;
 * **서버 규칙을 위반하는 이미지 신청 시 보류 및 취소될 수 있습니다.**
 
 ****
