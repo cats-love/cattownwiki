@@ -53,13 +53,19 @@ coverY: 0
 
 ### 종류
 
-**피아노, 드럼, 기타, 일렉 기타, 종, 비트, 바이올린의 7가지 악기가 있습니다.**
+**1차 추가: 피아노, 드럼, 기타, 일렉 기타, 종, 비트, 바이올린의 7가지 악기가 있습니다.**
 
 |                                          |                                        |                                             |
 | ---------------------------------------- | -------------------------------------- | ------------------------------------------- |
 | ![](<../.gitbook/assets/piano (1).png>)  | ![](../.gitbook/assets/drum.png)       | ![](../.gitbook/assets/handbell.png)        |
 | ![](<../.gitbook/assets/guitar (1).png>) | ![](../.gitbook/assets/elecguitar.png) | ![](<../.gitbook/assets/launchpad (1).png>) |
 | ![](../.gitbook/assets/violin.png)       |                                        |                                             |
+
+## 🎷2차 악기 추가 (23/3/1)
+
+**베이스 기타, 벤조, 플링, 차임, 플루트, 디저리두의 6가지 악기가 추가되었습니다.**
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td><img src="../.gitbook/assets/bassguitar.png" alt=""></td><td><strong>베이스 기타</strong></td><td></td></tr><tr><td><img src="../.gitbook/assets/benjo.png" alt=""></td><td><strong>벤조</strong></td><td></td></tr><tr><td><img src="../.gitbook/assets/pling.png" alt=""></td><td></td><td><strong>플링</strong></td></tr><tr><td><img src="../.gitbook/assets/chime.png" alt=""></td><td></td><td><strong>차임</strong></td></tr><tr><td><img src="../.gitbook/assets/flute.png" alt=""></td><td><strong>플루트</strong></td><td></td></tr><tr><td><img src="../.gitbook/assets/didgerigoo (1).png" alt=""></td><td></td><td><strong>디저리두</strong></td></tr></tbody></table>
 
 ### 악보
 
@@ -146,3 +152,4 @@ coverY: 0
 | **2022.09.11** | 일반악기(16개) /악기상점 / 악기 청음존이 추가되었습니다.                                |
 | 2022.09.12     | <p>합주악기가 추가되었습니다. (By.Blank-In)<br>- 피아노, 기타, 일렉기타, 종, 비트, 드럼</p> |
 | 2022.10.16     | 합주악기의 옥타브 피아노와 일렉기타, 바이올린이 추가되었습니다.                               |
+| 2023.03.01     | 합주 및 옥타브 신규악기 6종이 추가되었습니다 ( 베이스 기타 리메이크, 벤조, 플링, 차임, 플루트, 디저리두)   |

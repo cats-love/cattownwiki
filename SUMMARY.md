@@ -2,11 +2,8 @@
 
 * [🐱 고냥이타운에 어서 오세요!](README.md)
 * [🔔 규칙](rules.md)
-* [📜 업데이트](undefined/README.md)
-  * [🌳 1.20 미리보기 업데이트 (1.19.3 only)](undefined/1.20-1.19.3-only.md)
-  * [🪑\[1.0\] 100+ 가구 업데이트](undefined/1.0-100+.md)
-* [😸 디스코드](undefined-1.md)
-* [🌍 웹지도](undefined-2.md)
+* [😸 디스코드](undefined.md)
+* [🌍 웹지도](undefined-1.md)
 
 ## ══.·:·.☽✧튜토리얼 ✧☾.·:·.══
 
@@ -17,7 +14,7 @@
 ## ══.·:·.☽✧시스템 ✧☾.·:·.══ <a href="#server" id="server"></a>
 
 * [🌍 월드](server/undefined/README.md)
-  * [🏙️ 신도시 (스폰)](server/undefined/undefined.md)
+  * [🏙️ 신도시](server/undefined/undefined.md)
   * [🐳 잠수서버](server/undefined/undefined-1.md)
 * [🛖 영역보호](server/undefined-1/README.md)
   * [🪴 셋홈/부동산 구매](server/undefined-1/undefined.md)

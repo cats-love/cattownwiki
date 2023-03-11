@@ -57,7 +57,7 @@ coverY: 0
 
 **아래 단추를 눌러 해당 문서로 이동해보세요!**
 
-[1.20-1.19.3-only.md](undefined/1.20-1.19.3-only.md "mention")
+[Broken link](broken-reference "mention")
 {% endtab %}
 
 {% tab title="✅옵티파인 지원 (~1.19.2)" %}
