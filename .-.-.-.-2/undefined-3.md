@@ -1,5 +1,7 @@
 ---
-description: 악보와 소설 등 다양한 장르에 맞게 책을 등록하고 판매해보세요.
+description: 악보와 소설 등 다양한 장르에 맞게 책을 등록하고 판매해보세요 !
+cover: ../.gitbook/assets/2023-03-11_16.47.24.png
+coverY: 0
 ---
 
 # 📕 책
