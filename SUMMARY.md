@@ -55,10 +55,10 @@
 
 ## ══.·:·.☽✧ 예술/취미 ✧☾.·:·.══
 
-* [🎨 미술](.-.-.-.-2/undefined.md)
+* [🎨 그림](.-.-.-.-2/undefined.md)
 * [🎷 악기](.-.-.-.-2/undefined-1.md)
 * [🎲 보드게임](.-.-.-.-2/undefined-2.md)
-* [📕 책](.-.-.-.-2/undefined-3.md)
+* [📕 책상점](.-.-.-.-2/undefined-3.md)
 
 ## ══.·:·.☽✧기타 ✧☾.·:·.══ <a href="#help" id="help"></a>
 
