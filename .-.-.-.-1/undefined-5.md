@@ -121,7 +121,7 @@ coverY: 0
 
 ## 🪑  오늘의 가구상점
 
-<figure><img src="../.gitbook/assets/Animation (5).gif" alt=""><figcaption><p>ㅁ도시월드 스폰 앞에 위치한 가구상점</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Animation (3).gif" alt=""><figcaption><p>ㅁ도시월드 스폰 앞에 위치한 가구상점</p></figcaption></figure>
 
 **139종의 신규 가구**가 등장하는 가구상점이 새롭게 추가되었습니다. 가구는 **매일 오전 8시에** 랜덤으로 **판매 품목이 변경**되며, 일부 **대형 조형물과 페인트 가능한 가구**가 등장합니다. &#x20;
 
@@ -139,7 +139,7 @@ coverY: 0
 
 ![](<../.gitbook/assets/image (11).png>)
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (2).png>)
 
 </details>
 
@@ -159,7 +159,7 @@ coverY: 0
 
 <figure><img src="../.gitbook/assets/2023-02-23_14.16.52.png" alt=""><figcaption><p>페인트로 색칠한 가구</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/Animation (1) (2).gif" alt=""><figcaption><p>페인트 제작대 사용법</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Animation (1) (1).gif" alt=""><figcaption><p>페인트 제작대 사용법</p></figcaption></figure>
 
 가구에 색깔을 칠할 수 있는 가구 페인트 시스템이 업데이트 되었습니다.  \
 페인트를 하기 위해서는 **페인트 제작대**가 필요하며, 추천코인 6개 또는 **/shop**에서 소지금 75000원에 구매할 수 있습니다. 페인트가 가능한 가구아이템은 설명에 ** **<mark style="color:blue;">**\[🖌️PAINT]**</mark> 가 붙어 있습니다.

@@ -6,7 +6,7 @@ coverY: 0
 
 # 📕 책상점
 
-<figure><img src="../.gitbook/assets/Animation (4).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Animation (1).gif" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 **서버 규칙에 맞지 않는 책을 등록하지 마세요**
@@ -58,5 +58,3 @@ coverY: 0
 | 날짜             | 설명                               |
 | -------------- | -------------------------------- |
 | **2022.10.19** | <ul><li>책 상점이 추가되었습니다.</li></ul> |
-
-ㅁ

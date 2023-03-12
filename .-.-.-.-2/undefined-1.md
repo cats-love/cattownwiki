@@ -12,7 +12,7 @@ coverY: 0
 
 ## 일반악기
 
-<figure><img src="../.gitbook/assets/Animation (3).gif" alt=""><figcaption><p>일반악기 연주 GUI</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Animation (3) (1).gif" alt=""><figcaption><p>일반악기 연주 GUI</p></figcaption></figure>
 
 일반악기는 간편한 연주가 가능한 악기로, 악기상점에 위치한 액자상점에서 **소지금 10만원**을 주고 구매할 수 있습니다. 우클릭하면 악기를 연주할 수 있는 GUI를 오픈하며, 건반을 클릭하여 노트블럭 영역(낮은 파#\~높은 파)의 소리를 연주할 수 있습니다. 연주 시에는 파티클이 반짝입니다.
 
