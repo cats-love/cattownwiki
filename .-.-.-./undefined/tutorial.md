@@ -44,8 +44,8 @@ coverY: 0
 
 ![](../../.gitbook/assets/008.png)
 
-{% content-ref url="../../server/undefined-1/" %}
-[undefined-1](../../server/undefined-1/)
+{% content-ref url="../../server/undefined-2/" %}
+[undefined-2](../../server/undefined-2/)
 {% endcontent-ref %}
 
 ![](../../.gitbook/assets/009.png)
@@ -60,6 +60,6 @@ coverY: 0
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="../../.-.-.-.-1/undefined-8/" %}
-[undefined-8](../../.-.-.-.-1/undefined-8/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
