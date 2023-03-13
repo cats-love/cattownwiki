@@ -5,7 +5,7 @@
 * **규칙을 읽지 않아 생기는 불이익을 막기 위해 꼭 읽어주세요!**
 * **튜토리얼을 읽고 **<mark style="color:orange;">**고냥이타운의 월드와 기본 컨텐츠**</mark>**에 대해 배워 보아요:)**&#x20;
 
-&#x20;<mark style="color:orange;">****</mark> [rules.md](../../rules.md "mention")  <mark style="color:orange;">**/**</mark> [tutorial.md](tutorial.md "mention")  <mark style="color:orange;">**/**</mark> [undefined-1](../../server/undefined-1/ "mention")<mark style="color:orange;">****</mark>
+&#x20;<mark style="color:orange;">****</mark> [rules.md](../../rules.md "mention")  <mark style="color:orange;">**/**</mark> [tutorial.md](tutorial.md "mention")  <mark style="color:orange;">**/**</mark> [undefined](../../server/undefined/ "mention")<mark style="color:orange;">****</mark>
 
 
 
@@ -25,11 +25,11 @@
 {% endtab %}
 
 {% tab title="⭐충분한 자원이 모였으면 그 다음은 집짓기!" %}
-* 각각의 특징은 [undefined-1](../../server/undefined-1/ "mention") 를 참고해주세요!
+* 각각의 특징은 [undefined](../../server/undefined/ "mention") 를 참고해주세요!
 * <mark style="color:orange;">**도시 또는 마을월드에 거주지를 생성**</mark>합니다. (도시월드는 일부 제약 사항이 존재합니다.)&#x20;
 * 랜덤 티피로 <mark style="color:orange;">**자신이 살 부동산**</mark>** ** 을 잡습니다. 스폰 지점에서 떨어질 수록 더 넓고 좋은 부동산 터를 얻을 수 있으며, <mark style="color:orange;">**Shift+F 클릭하여 랜덤 티피**</mark>를 적극적으로 활용해보세요
 * 부동산 생성 시 <mark style="color:orange;">**인접 마을과 3청크 이상을 유지**</mark>해야 합니다.&#x20;
-* 자세한 부동산 명령어 확인은 [undefined-2](../../server/undefined-2/ "mention")을 참고해주세요.&#x20;
+* 자세한 부동산 명령어 확인은 [undefined-1](../../server/undefined-1/ "mention")을 참고해주세요.&#x20;
 {% endtab %}
 {% endtabs %}
 
@@ -66,7 +66,7 @@
 
 <summary>Q. 땅 어떻게 늘려요? / 땅 어떻게 지정하나요? / 도시 마을월드에서 건축이 안돼요!</summary>
 
-#### A. 부동산을 지정하는 방법은 [undefined-2](../../server/undefined-2/ "mention") 을 참고해주세요.
+#### A. 부동산을 지정하는 방법은 [undefined-1](../../server/undefined-1/ "mention") 을 참고해주세요.
 
 * **땅을 늘리려면, 부동산 내부에서 **<mark style="color:orange;">**/res expand (숫자)**</mark>**를 입력하면 숫자만큼 바라보는 방향으로 땅이 확장됩니다 :)**
 * <mark style="color:orange;">**영역보호 금삽을 잃어버리더라도, 일반 금삽으로 영역보호를 할 수 있습니다.**</mark>
