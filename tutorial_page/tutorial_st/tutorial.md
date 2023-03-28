@@ -56,10 +56,10 @@ coverY: 0
 
 ![](../../.gitbook/assets/010.png)
 
-{% content-ref url="../../.-.-.-./undefined/broken-reference/" %}
-[broken-reference](../../.-.-.-./undefined/broken-reference/)
+{% content-ref url="../../.-.-.-./undefined/" %}
+[undefined](../../.-.-.-./undefined/)
 {% endcontent-ref %}
 
-{% content-ref url="../../.-.-.-./undefined/broken-reference/" %}
-[broken-reference](../../.-.-.-./undefined/broken-reference/)
+{% content-ref url="../../.-.-.-./undefined-2.md" %}
+[undefined-2.md](../../.-.-.-./undefined-2.md)
 {% endcontent-ref %}

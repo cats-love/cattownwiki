@@ -53,4 +53,3 @@
 <figure><img src="../../.gitbook/assets/제목-없음-2_0053_2022-09-01_01.39.18.png.png" alt=""><figcaption></figcaption></figure>
 
 </div>
-
