@@ -50,7 +50,7 @@ coverY: 0
 
 <figure><img src="../.gitbook/assets/2023-03-11_19.47.25.png" alt=""><figcaption><p>유저간 이루어지는 미술작품 경매 (스텔라 경매장)</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>디스코드 그림공간을 활용하여 나만의 그림 자랑하기</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>디스코드 그림공간을 활용하여 나만의 그림 자랑하기</p></figcaption></figure>
 
 그림은 **액자** 또는 작물코인 상점에서 판매하는 **투명액자 / 발광 투명액자**를 이용하여 다양한 장식 및 조형물로 활용할 수 있습니다. 또한, 블록을 활용하여 이젤을 겹쳐 설치할 수 있으며, 대형 그림을 제작할 수 있습니다.
 
