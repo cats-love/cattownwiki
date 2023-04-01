@@ -77,7 +77,7 @@ coverY: 0
 <figure><img src="../../.gitbook/assets/2022-08-14_23.55.48.png" alt=""><figcaption></figcaption></figure>
 
 * 가구상점에서는 다양한 아이템을 전시 및 판매하고 있으며, 각 가구의 획득 방식이 상점에 명시되어 있습니다.
-* 자세한 가구 목록은[undefined-5](../../.-.-.-./undefined-5/ "mention")를 참고해주세요!
+* 자세한 가구 목록은[furniture](../../contents/furniture/ "mention")를 참고해주세요!
 {% endtab %}
 
 {% tab title="🥼 치장상점" %}

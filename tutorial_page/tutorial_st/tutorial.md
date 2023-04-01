@@ -56,10 +56,10 @@ coverY: 0
 
 ![](../../.gitbook/assets/010.png)
 
-{% content-ref url="../../.-.-.-./undefined/" %}
-[undefined](../../.-.-.-./undefined/)
+{% content-ref url="../../contents/farming/" %}
+[farming](../../contents/farming/)
 {% endcontent-ref %}
 
-{% content-ref url="../../.-.-.-./undefined-2.md" %}
-[undefined-2.md](../../.-.-.-./undefined-2.md)
+{% content-ref url="../../contents/fishing.md" %}
+[fishing.md](../../contents/fishing.md)
 {% endcontent-ref %}
