@@ -1,5 +1,6 @@
 ---
 description: 고냥이 타운의 규칙을 알아볼까요?
+coverY: 0
 ---
 
 # 🔔 규칙
@@ -147,7 +148,7 @@ description: 고냥이 타운의 규칙을 알아볼까요?
 * \*\*지역보호가 없거나 장기 미접으로 부동산이 사라질 경우, \*\*<mark style="color:green;">**해당 땅의 소유권을 포기한 것으로 간주**</mark>\*\*하며, 부동산 주인은 \*\*<mark style="color:green;">**접속 및 지역보호 등의 보호 의무**</mark>**를 지닙니다.**
 * \*\*지역보호가 풀린 땅은 서버 소유이며, \*\*<mark style="color:green;">**이용하고자 할 시 신고하기 게시판을 이용하여 부동산 제거 요청 후 사용**</mark>**해야 합니다. ( 미 준수 시, 2항의 약탈 항목을 적용받습니다.)**
 
-<figure><img src=".gitbook/assets/이거 어때요 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/이거 어때요 (2).png" alt=""><figcaption></figcaption></figure>
 
 **🔸 공통 규칙 및 각 월드별 규칙은 아래를 참고해주세요!**
 
