@@ -4,7 +4,7 @@ description: 서버 내 작물, 뉴작물, 나무, 물고기를 활용하여 다
 
 # 🍩 요리
 
-<figure><img src="../../.gitbook/assets/2023-02-09_02.03.32.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2023-03-24_19.23.44.png" alt=""><figcaption></figcaption></figure>
 
 서버 내 요리 시스템은 작물과 뉴작물, 나무, 물고기 아이템을 각각 조합하여 요리를 만들 수 있습니다.
 
