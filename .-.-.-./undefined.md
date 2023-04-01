@@ -4,7 +4,7 @@ cover: ../.gitbook/assets/2023-02-08_09.35.07.png
 coverY: 0
 ---
 
-# 🎨 그림
+# 🎨그림
 
 <figure><img src="../.gitbook/assets/2023-03-11_19.08.39.png" alt=""><figcaption><p>앉아서 그림을 그리는 모습</p></figcaption></figure>
 

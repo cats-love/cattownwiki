@@ -1,4 +1,4 @@
-# 🌳 벌목
+# 🌳벌목
 
 <figure><img src="../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>단풍나무와 체리나무로 이루어진 산책로</p></figcaption></figure>
 
