@@ -39,7 +39,7 @@
 
 * 농부 NPC는 뉴작물의 전용 토양, 물뿌리개, 비료, 씨앗 등을 판매하고 있으며, 작물코인을 통해 구매가 가능합니다.
 
-<figure><img src="../../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2023-04-02_13.09.20.png" alt=""><figcaption></figcaption></figure>
 
 각 상점에 대한 설명입니다.
 
