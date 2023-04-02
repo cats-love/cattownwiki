@@ -14,15 +14,15 @@
 
 ## ══.·:·.☽✧시스템 ✧☾.·:·.══ <a href="#server" id="server"></a>
 
-* [🪙 경제](server/undefined-2.md)
-* [🌍 월드](server/undefined/README.md)
-  * [🏙️ 신도시](server/undefined/undefined.md)
-  * [🐬잠수서버](server/undefined/undefined-1.md)
-* [🏠 부동산 / 마을](server/undefined-1/README.md)
-  * [🌳 셋홈/부동산 구매](server/undefined-1/undefined.md)
-  * [🛗 엘리베이터](server/undefined-3/undefined-1.md)
+* [🪙 경제](server/economy.md)
+* [🌍 월드](server/world/README.md)
+  * [🏙️ 신도시](server/world/new\_town.md)
+  * [🐬잠수서버](server/world/afk.md)
+* [🏠 부동산 / 마을](server/towny/README.md)
+  * [🌳 셋홈/부동산 구매](server/towny/purchase.md)
+  * [🛗 엘리베이터](server/towny/elevator.md)
 * [⚔️ 스킬 (MCMMO)](server/mcmmo.md)
-* [🔎자동줍기 / 자동정렬](server/undefined-3/undefined.md)
+* [🔎자동줍기 / 자동정렬](server/sorting.md)
 
 ## ══.·:·.☽✧컨텐츠 ✧☾.·:·.══ <a href="#contents" id="contents"></a>
 
