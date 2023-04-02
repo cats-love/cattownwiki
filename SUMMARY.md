@@ -62,6 +62,6 @@
 
 ## ══.·:·.☽✧기타 ✧☾.·:·.══ <a href="#help" id="help"></a>
 
-* [💸 후원](help/sponsor.md)
-* [✅ 추천](help/recommendation.md)
-* [😺 문의](help/inquiry.md)
+* [💸 후원](help/undefined.md)
+* [✅ 추천](help/undefined-1.md)
+* [😺 문의](help/undefined-2.md)
