@@ -120,7 +120,7 @@ description: 서버 내 각종 명령어들에 대해 다룹니다
 * **/art** : 그림을 그릴 수 있는 튜토리얼을 오픈합니다. **(/그림)**
 * **/악보등록** : 손에 악보를 들고 해당 명령어를 사용하여 연주할 악보를 등록할 수 있습니다.
 * **/악보연주** : 손에 악기를 들고 해당 명령어를 사용하여 악보를 연주할 수 있습니다.
-* <mark style="color:orange;">**책상점 명령어 확인:**</mark> [book.md](../hobby/book.md "mention") (링크를 클릭해주세요!!)
+* <mark style="color:orange;">**책상점 명령어 확인:**</mark> [undefined-3.md](../.-.-.-./undefined-3.md "mention") (링크를 클릭해주세요!!)
 * <mark style="color:orange;">**낚시 명령어 확인:**</mark> [fishing.md](../contents/fishing.md "mention") (링크를 클릭해주세요!!)
 * <mark style="color:orange;">**표지판 커스텀 확인:**</mark>\*\* \*\* [custom\_sign.md](../contents/custom\_sign.md "mention")(링크를 클릭해주세요!!)
 

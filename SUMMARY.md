@@ -55,13 +55,13 @@
 
 ## ══.·:·.☽✧ 예술/취미 ✧☾.·:·.══ <a href="#hobby" id="hobby"></a>
 
-* [🎨그림](hobby/art.md)
-* [🎷 악기](hobby/instrument.md)
-* [🎲 보드게임](hobby/boardgame.md)
-* [📕책상점](hobby/book.md)
+* [🎨그림](.-.-.-./undefined.md)
+* [🎷 악기](.-.-.-./undefined-1.md)
+* [🎲 보드게임](.-.-.-./undefined-2.md)
+* [📕책상점](.-.-.-./undefined-3.md)
 
 ## ══.·:·.☽✧기타 ✧☾.·:·.══ <a href="#help" id="help"></a>
 
-* [💸 후원](help/undefined.md)
-* [✅ 추천](help/undefined-1.md)
-* [😺 문의](help/undefined-2.md)
+* [💸 후원](help/sponsor.md)
+* [✅ 추천](help/recommendation.md)
+* [😺 문의](help/inquiry.md)
