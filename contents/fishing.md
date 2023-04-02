@@ -1,3 +1,7 @@
+---
+coverY: 0
+---
+
 # 🎣 낚시
 
 {% hint style="warning" %}
@@ -72,7 +76,7 @@
 
 > 낚시코인, 낚시코인 상점
 
-<figure><img src="../.gitbook/assets/2023-02-09_02.05.18.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2023-04-02_12.56.57.png" alt=""><figcaption></figcaption></figure>
 
 서버 내에서 낚시를 통해 낚시코인을 낮은 확률로 획득할 수 있으며, 획득한 낚시코인은 유저간 거래, 판매 및 스폰 상점에서 보물로 교환할 수 있습니다.
 
