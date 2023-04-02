@@ -44,8 +44,8 @@ coverY: 0
 
 ![](../../.gitbook/assets/008.png)
 
-{% content-ref url="../../server/towny/" %}
-[towny](../../server/towny/)
+{% content-ref url="../../server/undefined-1/" %}
+[undefined-1](../../server/undefined-1/)
 {% endcontent-ref %}
 
 ![](../../.gitbook/assets/009.png)

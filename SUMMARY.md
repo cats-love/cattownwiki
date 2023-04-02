@@ -14,15 +14,15 @@
 
 ## ══.·:·.☽✧시스템 ✧☾.·:·.══ <a href="#server" id="server"></a>
 
-* [🪙 경제](server/economy.md)
-* [🌍 월드](server/world/README.md)
-  * [🏙️ 신도시](server/world/new\_town.md)
-  * [🐬잠수서버](server/world/afk.md)
-* [🏠 부동산 / 마을](server/towny/README.md)
-  * [🌳 셋홈/부동산 구매](server/towny/purchase.md)
-  * [🛗 엘리베이터](server/towny/elevator.md)
+* [🪙 경제](server/undefined-2.md)
+* [🌍 월드](server/undefined/README.md)
+  * [🏙️ 신도시](server/undefined/undefined.md)
+  * [🐬잠수서버](server/undefined/undefined-1.md)
+* [🏠 부동산 / 마을](server/undefined-1/README.md)
+  * [🌳 셋홈/부동산 구매](server/undefined-1/undefined.md)
+  * [🛗 엘리베이터](server/undefined-3/undefined-1.md)
 * [⚔️ 스킬 (MCMMO)](server/mcmmo.md)
-* [🔎자동줍기 / 자동정렬](server/sorting.md)
+* [🔎자동줍기 / 자동정렬](server/undefined-3/undefined.md)
 
 ## ══.·:·.☽✧컨텐츠 ✧☾.·:·.══ <a href="#contents" id="contents"></a>
 
@@ -53,12 +53,12 @@
   * [🥼 커스텀 갑옷](contents/undefined-7/undefined-2.md)
   * [✨ 아이템스킨](contents/undefined-7/undefined-1.md)
 
-## ══.·:·.☽✧ 예술/취미 ✧☾.·:·.══
+## ══.·:·.☽✧ 예술/취미 ✧☾.·:·.══ <a href="#hobby" id="hobby"></a>
 
-* [🎨그림](.-.-.-./undefined.md)
-* [🎷 악기](.-.-.-./undefined-1.md)
-* [🎲 보드게임](.-.-.-./undefined-2.md)
-* [📕책상점](.-.-.-./undefined-3.md)
+* [🎨그림](hobby/art.md)
+* [🎷 악기](hobby/instrument.md)
+* [🎲 보드게임](hobby/boardgame.md)
+* [📕책상점](hobby/book.md)
 
 ## ══.·:·.☽✧기타 ✧☾.·:·.══ <a href="#help" id="help"></a>
 

@@ -70,7 +70,7 @@ description: 서버 내 각종 명령어들에 대해 다룹니다
 >
 > **/땅 권한 (🛑 자신이 어떤 권한을 수정하는 것인지 정확히 모를 경우, 권한을 수정하지 마세요)**
 
-자세한 사용법은 [towny](../server/towny/ "mention")을 참고해 주세요!
+자세한 사용법은 [undefined-1](../server/undefined-1/ "mention")을 참고해 주세요!
 
 ### 🛖마을 명령어
 
@@ -93,7 +93,7 @@ description: 서버 내 각종 명령어들에 대해 다룹니다
 >
 > **/마을 인원추가 / 마을출금 은 촌장,부촌장이 사용이 가능합니다.**
 
-자세한 사용법은 [towny](../server/towny/ "mention")을 참고해 주세요!
+자세한 사용법은 [undefined-1](../server/undefined-1/ "mention")을 참고해 주세요!
 
 ### ⚔️ MCMMO 명령어
 
@@ -120,7 +120,7 @@ description: 서버 내 각종 명령어들에 대해 다룹니다
 * **/art** : 그림을 그릴 수 있는 튜토리얼을 오픈합니다. **(/그림)**
 * **/악보등록** : 손에 악보를 들고 해당 명령어를 사용하여 연주할 악보를 등록할 수 있습니다.
 * **/악보연주** : 손에 악기를 들고 해당 명령어를 사용하여 악보를 연주할 수 있습니다.
-* <mark style="color:orange;">**책상점 명령어 확인:**</mark> [undefined-3.md](../.-.-.-./undefined-3.md "mention") (링크를 클릭해주세요!!)
+* <mark style="color:orange;">**책상점 명령어 확인:**</mark> [book.md](../hobby/book.md "mention") (링크를 클릭해주세요!!)
 * <mark style="color:orange;">**낚시 명령어 확인:**</mark> [fishing.md](../contents/fishing.md "mention") (링크를 클릭해주세요!!)
 * <mark style="color:orange;">**표지판 커스텀 확인:**</mark>\*\* \*\* [custom\_sign.md](../contents/custom\_sign.md "mention")(링크를 클릭해주세요!!)
 
