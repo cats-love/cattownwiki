@@ -40,6 +40,9 @@ coverY: 0
 * **거래 및 구인구직** 등은 <mark style="color:green;">**확성기\[/확성기 (할말)]를 사용**</mark>하여야 합니다.
 * 확성기를 거래 및 구인구직 등 홍보 목적 을 제외한 다른 목적으로 사용 시 <mark style="color:red;">**경고**</mark>를 부여합니다.
 * **/e 명령어**에 있는 **내용** 사용 시 <mark style="color:red;">**경고**</mark>를 부여합니다.
+* **한글 닉네임**은 <mark style="color:red;">**중복이 불가능**</mark>하며, <mark style="color:green;">**칭호**</mark>는 <mark style="color:green;"><mark style="color:red;">**서로 합의**<mark style="color:red;"></mark>하에 <mark style="color:green;">**중복으로 설정**</mark> 가능합니다\
+  ㄴ **한글 닉네임**은 <mark style="color:green;">**먼저 닉네임을 변경하신 분**</mark>께서 <mark style="color:green;">**우선권**</mark>을 가지고 있으며,\
+  &#x20;    <mark style="color:green;">**/영닉 한글닉네임**</mark> 검색 시 <mark style="color:green;">**닉네임이 있는지 없는지 확인**</mark> 가능합니다
 
 ### 『2. 핵/프로그램/변조/버그악용/테러』
 
