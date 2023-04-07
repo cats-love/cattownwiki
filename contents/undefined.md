@@ -15,7 +15,7 @@ coverY: 0
 
 > 🍇 농작물의 종류
 
-<figure><img src="../.gitbook/assets/옥수수.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/바나나.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/양배추.png" alt=""><figcaption></figcaption></figure>
 
