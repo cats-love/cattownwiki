@@ -29,7 +29,7 @@
 * [🍅 농사](contents/farming/README.md)
   * [🥕 작물](contents/farming/crop.md)
   * [🍅 뉴작물](contents/farming/new\_crop.md)
-* [🍅 농사](contents/undefined.md)
+* [🍅 농사 (수정)](contents/undefined.md)
 * [🎣 낚시](contents/fishing.md)
 * [🍩 요리](contents/cooking/README.md)
   * [😺 토스트, 치즈, 구운 베이컨](contents/cooking/cook.md)
