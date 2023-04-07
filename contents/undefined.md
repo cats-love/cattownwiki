@@ -21,7 +21,7 @@ coverY: 0
 
 2. 본인의 부동산(땅)에서 토양을 설치하고 씨앗을 심은 뒤 물을 줍니다
 
-<figure><img src="../.gitbook/assets/물뿌리개 .gif" alt=""><figcaption><p><mark style="color:green;"><strong>물뿌리개</strong></mark>는 물가에 다가가 <mark style="color:green;"><strong>우클릭</strong></mark>으로 <mark style="color:blue;"><strong>물</strong></mark>을 채워넣을 수 있습니다</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/31313.gif" alt=""><figcaption><p><mark style="color:green;"><strong>물뿌리개</strong></mark>는 물가에 다가가 <mark style="color:green;"><strong>우클릭</strong></mark>으로 <mark style="color:blue;"><strong>물</strong></mark>을 채워넣을 수 있습니다</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/물뿌리개2.gif" alt=""><figcaption><p><mark style="color:blue;"><strong>물</strong></mark>을 뿌리고 싶은 <mark style="color:orange;"><strong>토양</strong></mark> 위에 <mark style="color:green;"><strong>우클릭</strong></mark>으로 <mark style="color:blue;"><strong>물</strong></mark>을 뿌릴 수 있습니다</p></figcaption></figure>
 
