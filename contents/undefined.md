@@ -18,4 +18,6 @@ description: 다양한 작물들을 만나보세요!
 
 <figure><img src="../.gitbook/assets/양배추.png" alt=""><figcaption><p>양배추의 성장 단계</p></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/옥수수.png" alt=""><figcaption><p>옥수수의 성장 단계</p></figcaption></figure>
+
 > 🌱 뉴작물 기르는 법
