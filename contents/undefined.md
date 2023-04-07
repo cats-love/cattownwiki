@@ -21,4 +21,9 @@ coverY: 0
 
 <figure><img src="../.gitbook/assets/옥수수.png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/가지.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/양파.png" alt=""><figcaption></figcaption></figure>
+
 > 🌱 뉴작물 기르는 법
+
