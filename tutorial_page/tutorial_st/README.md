@@ -5,7 +5,7 @@
 * **규칙을 읽지 않아 생기는 불이익을 막기 위해 꼭 읽어주세요!**
 * \*\*튜토리얼을 읽고 \*\*<mark style="color:orange;">**고냥이타운의 월드와 기본 컨텐츠**</mark>**에 대해 배워 보아요:)**
 
-[rules.md](../../rules.md "mention") ** **<mark style="color:orange;">**/**</mark>** ** [tutorial.md](tutorial.md "mention") ** **<mark style="color:orange;">**/**</mark>** ** [undefined](../../server/undefined/ "mention")
+[rules.md](../../rules.md "mention") <mark style="color:orange;">**/**</mark> [tutorial.md](tutorial.md "mention") <mark style="color:orange;">**/**</mark> [undefined](../../server/undefined/ "mention")
 
 ### 2. 야생월드에 가서 자원을 채집하기!
 

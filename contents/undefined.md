@@ -14,4 +14,6 @@ description: 다양한 작물들을 만나보세요!
 
 > 🍇 뉴작물의 종류
 
+<figure><img src="../.gitbook/assets/바나나.png" alt=""><figcaption></figcaption></figure>
+
 > 🌱 뉴작물 기르는 법
