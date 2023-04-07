@@ -56,8 +56,8 @@ coverY: 0
 
 ![](../../.gitbook/assets/010.png)
 
-{% content-ref url="../../contents/farming/" %}
-[farming](../../contents/farming/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="../../contents/fishing.md" %}

@@ -26,9 +26,6 @@
 
 ## ══.·:·.☽✧컨텐츠 ✧☾.·:·.══ <a href="#contents" id="contents"></a>
 
-* [🍅 농사](contents/farming/README.md)
-  * [🥕 작물](contents/farming/crop.md)
-  * [🍅 뉴작물](contents/farming/new\_crop.md)
 * [🍅 커스텀 농작물](contents/undefined.md)
 * [🎣 낚시](contents/fishing.md)
 * [🍩 요리](contents/cooking/README.md)
