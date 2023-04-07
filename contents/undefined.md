@@ -14,8 +14,8 @@ description: 다양한 작물들을 만나보세요!
 
 > 🍇 농작물의 종류
 
-<figure><img src="../.gitbook/assets/바나나.png" alt=""><figcaption><p>바나나의 성장 과정</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/바나나.png" alt=""><figcaption><p>바나나의 성장 단계</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/양배추.png" alt=""><figcaption><p>양배추의 성장 과정</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/양배추.png" alt=""><figcaption><p>양배추의 성장 단계</p></figcaption></figure>
 
 > 🌱 뉴작물 기르는 법
