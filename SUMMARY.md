@@ -1,7 +1,7 @@
 # Table of contents
 
 * [😺 고냥이타운에 어서 오세요!](README.md)
-* [🔔규칙](rules.md)
+* [🔔 규칙](rules.md)
 * [😽 디스코드](discord.md)
 * [🌍 웹지도](web\_map.md)
 * [📢 업데이트 & 패치](update.md)
@@ -11,6 +11,7 @@
 * [✨ 고냥이타운 시작하기](tutorial\_page/tutorial\_st/README.md)
   * [🌟 튜토리얼](tutorial\_page/tutorial\_st/tutorial.md)
 * [✏️ 명령어](tutorial\_page/command.md)
+* [❓ 많이 하는 질문](tutorial\_page/frequently\_asked\_questions.md)
 
 ## ══.·:·.☽✧시스템 ✧☾.·:·.══ <a href="#server" id="server"></a>
 
