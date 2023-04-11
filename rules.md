@@ -28,8 +28,8 @@ coverY: 0
 * **부적절한 닉네임, 스킨, 마을명, 부동산명 등을 모두 포함**합니다.
 {% endhint %}
 
-* 지속적 **도배, 어그로 , 구걸, 욕설, 비방, 인종차별, 종교, 정치에 관한 발언 및 표현**을 금합니다.
-* ㄴ채팅 내에서 확인되는 표현시에는 뮤트 10분 / 확성기로 확인되는 경우에는 예외없이 <mark style="color:red;">**경고**</mark>를 부여합니다.
+* 지속적 **도배, 어그로 , 구걸, 욕설, 비방, 인종차별, 종교, 정치에 관한 발언 및 표현**을 금합니다.\
+  ㄴ채팅 내에서 확인되는 표현시에는 뮤트 10분 / 확성기로 확인되는 경우에는 예외없이 <mark style="color:red;">**경고**</mark>를 부여합니다.
 * **특정 및 다수 유저에게 성적 수치심이나 불쾌감을 주는 발언 및 표현** 등을 금합니다.
 * **분쟁 사항은 당사자 간 합의를 통해 처리하며,** 필요 시 관리자의 중재가 가능합니다.
 * 공공장소에서의 **반말 및 과도한 tpa 요청**을 금합니다.
@@ -38,14 +38,16 @@ coverY: 0
 * **타서버 언급 및 타게임 유도시에는** <mark style="color:red;">**경고 없이 벤**</mark>처리로 부여됩니다.
 * **섭접 발언, 서버 비하, 운영진 비하는 **<mark style="color:red;">**3\~5점의 경고**</mark>가 부여됩니다.
 * **거래 및 구인구직** 등은 <mark style="color:green;">**확성기\[/확성기 (할말)]를 사용**</mark>하여야 합니다.\
-  ㄴ확성기를 거래 및 구인구직 등 홍보 목적 을 제외한 다른 목적으로 사용 시 \
-  &#x20;   <mark style="color:red;">**경고**</mark>를 부여합니다.
+  ㄴ확성기를 거래 및 구인구직 등 홍보 목적 을 제외한 다른 목적으로 사용 시  <mark style="color:red;">**경고**</mark>를 부여합니다.
 * **/e 명령어**에 있는 **내용** 사용 시 <mark style="color:red;">**경고**</mark>를 부여합니다.
 * **한글 닉네임**은 <mark style="color:red;">**중복이 불가능**</mark>하며, <mark style="color:green;">**칭호**</mark>는 <mark style="color:green;"><mark style="color:red;">**서로 합의**<mark style="color:red;"></mark>하에 <mark style="color:green;">**중복으로 설정**</mark> 가능합니다\
   ㄴ <mark style="color:green;">**한글닉네임 변경 시**</mark> 닉네임이 <mark style="color:green;">**중복**</mark>인지 확인 부탁드리며, \
   &#x20;    <mark style="color:red;">**악의적인 변경 시 경고**</mark>가 부여됩니다.\
   ㄴ **한글 닉네임**은 <mark style="color:green;">**먼저 닉네임을 변경하신 분**</mark>께서 <mark style="color:green;">**우선권**</mark>을 가지고 있으며,\
   &#x20;    <mark style="color:green;">**/영닉 한글닉네임**</mark> 검색 시 <mark style="color:green;">**닉네임이 있는지 없는지 확인**</mark> 가능합니다
+* <mark style="color:green;">**가이드가 서버 내에 있을 시**</mark>** 전체채팅에서 **<mark style="color:red;">**타 유저의 채팅 지적을 금지**</mark>**합니다**\
+  ㄴ <mark style="color:orange;">**"지역채팅 이용해주세요" , "귓속말 이용해주세요"**</mark> 등\
+  ㄴ **적발 시 **<mark style="color:red;">**뮤트\~경고 1점**</mark>**을 부여합니다**&#x20;
 
 ### 『2. 핵/프로그램/변조/버그악용/테러』
 
@@ -172,13 +174,13 @@ coverY: 0
 {% endtab %}
 
 {% tab title="🏙️ 도시월드" %}
-* \*\*도시월드의 평지를 이용하여 단순 농사장 목적으로 사용하는 것은 금지되며, \*\*<mark style="color:green;">**농사터를 짓고자 할 때**</mark>\*\*에는 \*\*<mark style="color:green;">**Y좌표 0 미만의 아래쪽에 건축**</mark>**하고 땅 위에는 적절한 건물을 보유하여야 합니다.**
+* 도시월드의 평지를 이용하여 단순 농사장 목적으로 사용하는 것은 금지되며, <mark style="color:green;">**농사터를 짓고자 할 때**</mark>에는 <mark style="color:green;">**Y좌표 0 미만의 아래쪽에 건축**</mark>**하고 땅 위에는 적절한 건물을 보유하여야 합니다.**
 
 ㄴ y좌표 0 이상 건설 시 무통보 삭제될 수 있으며, 적절한 건물이란, 점유된 부동산을 모두 사용하는 것이 원칙이되 관리자가 보기에 비워두는 것이 적절한 공간은 예외로 적용합니다.
 {% endtab %}
 
 {% tab title="🛖 마을월드" %}
-* <mark style="color:green;">**마을을 생성**</mark>\*\* 할 때 \*\*<mark style="color:green;">**본인의 부동산 내에서만 생성이 가능**</mark>**합니다.**
+* <mark style="color:green;">**마을을 생성**</mark> 할 때 <mark style="color:green;">**본인의 부동산 내에서만 생성이 가능**</mark>**합니다.**
 * **부동산이 없는 지역에 마을을 생성한 경우 무통보 삭제 될 수 있습니다. (마을삭제시에는 생성비용 반환이 되지 않습니다.)**
 {% endtab %}
 
@@ -196,13 +198,14 @@ coverY: 0
 
 ### 『10. 거래 및 상점 』
 
-* \*\*유저 상점(/ah) 아이템 시세는 \*\*<mark style="color:green;">**상점 구매가**</mark>**를 초과하여 올릴 수 없습니다.**
+* 유저 상점(/ah) 아이템 시세는 <mark style="color:green;">**상점 구매가**</mark>**를 초과하여 올릴 수 없습니다.**
 * **그림/악보/소설과 같이 타인이 직접 제작한 저작물의 경우,허락을 받지 않은 재 판매가 금지됩니다. (적발시 무통보 회수, 지속시 경고)**
 
 **🧑‍🤝‍🧑아르바이트**
 
 * 아르바이트 진행시에는 서로간의 계약을 지켜야 하며, 예방하기 위한 증빙자료 보관을 권장합니다.
 * 아르바이트로 인한 사기 발생 시에는 서버 규칙으로 처벌하며, 관리자가 증빙자료를 요청할 수 있습니다.
+* 아르바이트가 끝난 후 <mark style="color:red;">**24시간**</mark> 안으로 <mark style="color:red;">**아르바이트 비용 미지급**</mark> 하였을 시 <mark style="color:red;">**경고 2점**</mark> 부여됩니다&#x20;
 
 🎴 **도박**
 
@@ -214,7 +217,7 @@ coverY: 0
 ### 『11. 처벌』
 
 {% hint style="warning" %}
-\*\*인게임/디스코드 신고 접수는 <mark style="color:green;">**\*\*\*\***</mark> \*\*<mark style="color:orange;">**디스코드- 신고하기**</mark>\*\*에서 \*\*<mark style="color:orange;">**신고 접수가 가능**</mark>**합니다**
+인게임/디스코드 신고 접수는 <mark style="color:orange;">**디스코드- 신고하기**</mark>에서 <mark style="color:orange;">**신고 접수가 가능**</mark>**합니다**
 
 * 개인 디스코드 및 1:1 문의로 신고접수를 받지 않습니다.
 {% endhint %}
