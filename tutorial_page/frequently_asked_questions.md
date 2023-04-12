@@ -2,15 +2,54 @@
 description: 고냥이타운을 플레이하면서 유저분들이 많이 하는 질문을 정리했습니다!
 ---
 
-# ❓ 많이 하는 질문
+# ❓ 자주 묻는 질문
 
 <details>
 
 <summary>Q.  처음에 들어왔을 때 무엇을 해야하나요?</summary>
 
-1. 처음에는 <mark style="color:orange;">**야생월드**</mark>로 이동하여 <mark style="color:orange;">**자원을 채집**</mark>하고 상점에 <mark style="color:orange;">**자원을 판매**</mark>하여 돈을 모으세요!
-2. 돈이 충분히 모였다면 마을월드로 이동하여 <mark style="color:orange;">**땅을 구매**</mark>하고 건축을 하거나 야생월드에서\
-   계속 돈을 모으면 됩니다!
+1. **우선 **<mark style="color:orange;">**야생월드로 이동하여 자원을 채집하고, 마을월드 혹은 도시월드에 부동산을 지정하여 거주하거나, 농사 및 낚시를 즐겨보세요.**</mark>\
+   **또한, 자유롭게 디스코드 내 마을 게시판을 이용하셔서 마을을 찾거나, 직접 마을을 만드셔도 됩니다.**
+2. <mark style="color:orange;">**서버 내 다양한 컨텐츠**</mark>**를 즐겨보세요.**\
+   <mark style="color:orange;">**MCMMO**</mark>** 스텟을 올려 다양한 스킬을 해금하고, **<mark style="color:green;">**추천코인**</mark>**과 **<mark style="color:yellow;">**작물코인**</mark>**을 이용하여 그림 및 악기 시스템을 즐기셔도 됩니다.**\
+   **수집을 좋아하신다면 몹머리 수집도 권해드리며, 고냥이 타운만의 반야생 컨텐츠를 재미있게 즐겨주시면 감사하겠습니다 !**
+
+</details>
+
+<details>
+
+<summary>Q.  리소스팩 적용이 제대로 안돼요!</summary>
+
+* 서버에 처음 들어오실 때에는 리소스팩을 물어보기 또는 허용으로 설정한 후 입장해주세요. 잘 모르실 경우, 튜토리얼을 참고하여 멀티플레이 메인 화면에서 수정 단추를 누르고 <mark style="color:orange;">**서버 리소스팩 사용을 허용**</mark>으로 변경해주세요. 대부분의 경우에는 재 접속 시 리소스팩이 적용됩니다.
+* 이모티콘 및 칭호 설정, 오른쪽 스코어보드가 깨져 보일 경우, 설정-언어에서 <mark style="color:orange;">**유니코드 글꼴 강제 사용을 꺼짐**</mark>으로 변경해주세요. 켜짐으로 설정하시면 정상적으로 보이지 않습니다.
+
+</details>
+
+<details>
+
+<summary>Q.  자원월드는 언제 초기화하나요?</summary>
+
+* <mark style="color:orange;">**매달 1일 오전 7시에 초기화**</mark>**되며, 초기화하는 일시는 약간씩 변동될 수 있습니다.**
+
+</details>
+
+<details>
+
+<summary>Q. 셋홈을 안해서 집을 잃어버렸어요! 어떻게 부동산을 찾나요?</summary>
+
+* **직전 위치가 부동산과 연결되어 있을 경우, **<mark style="color:orange;">**/back**</mark>** 또는 **<mark style="color:orange;">**/dback**</mark>** 명령어를 이용해 주세요.** \
+  **침대로 셋홈을 한 경우 **<mark style="color:orange;">**/home**</mark>** 명령어로 이동할 수 있습니다. 해당 불상사를 막기 위해 꼭 셋홈을 사용해주세요!**
+* <mark style="color:orange;">**/res list**</mark>** 명령어를 사용하여 땅을 찾은 후 해당 좌표까지 걸어갈 수 있습니다.**
+
+</details>
+
+<details>
+
+<summary>Q.  땅 어떻게 늘려요? / 땅 어떻게 지정하나요? / 도시 마을월드에서 건축이 안돼요!</summary>
+
+* **부동산을 지정하는 방법은** [undefined-1](../server/undefined-1/ "mention") **을 참고해주세요.**
+* **땅을 늘리려면, 부동산 내부에서 **<mark style="color:orange;">**/res expand (숫자)**</mark>**를 입력하면 바라보는 방향으로 숫자만큼 땅이 확장됩니다**
+* <mark style="color:orange;">**영역보호 금삽을 잃어버리더라도, 일반 금삽으로 영역보호를 할 수 있습니다.**</mark>
 
 </details>
 

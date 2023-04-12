@@ -3,23 +3,23 @@
 ### 1. 고냥이타운 규칙과 튜토리얼 정독하기
 
 * **규칙을 읽지 않아 생기는 불이익을 막기 위해 꼭 읽어주세요!**
-* \*\*튜토리얼을 읽고 \*\*<mark style="color:orange;">**고냥이타운의 월드와 기본 컨텐츠**</mark>**에 대해 배워 보아요:)**
+* 튜토리얼을 읽고 <mark style="color:orange;">**고냥이타운의 월드와 기본 컨텐츠**</mark>**에 대해 배워 보아요:)**
 
 [rules.md](../../rules.md "mention") <mark style="color:orange;">**/**</mark> [tutorial.md](tutorial.md "mention") <mark style="color:orange;">**/**</mark> [undefined](../../server/undefined/ "mention")
 
 ### 2. 야생월드에 가서 자원을 채집하기!
 
-* \*\*튜토리얼을 완료하셨다면, \*\*<mark style="color:orange;">**야생월드**</mark>**로 이동해서 자원을 채집**해보세요!
+* 튜토리얼을 완료하셨다면, <mark style="color:orange;">**야생월드**</mark>**로 이동해서 자원을 채집**해보세요!
 * 자원이 모였으면 이제 집을 지을 차례 ! <mark style="color:orange;">**도시월드/ 마을월드**</mark> 중 원하는 **집터**를 선택할 수 있습니다.
 * 만약 마을에 들어가고 싶다면? <mark style="color:orange;">**디스코드 마을 홍보 게시판**</mark>을 참고하여 <mark style="color:orange;">**마을을 찾고 모집**</mark>할 수 있습니다!
 
 {% tabs %}
 {% tab title="🌳 야생월드는 어떤 특징이 있을까요?" %}
 * 야생월드는 <mark style="color:orange;">**매달 1일 초기화**</mark>됩니다.
-* 야생월드에서는 <mark style="color:orange;">**임시 거주 목적의 생활**</mark>만 가능하며, <mark style="color:orange;">**표지판 잠금(표지판의 첫줄 \[잠금] 두번째 줄 닉네임 입력)**</mark>\*\* 으로 \*\*<mark style="color:orange;">**보호**</mark>할 수 있습니다.
+* 야생월드에서는 <mark style="color:orange;">**임시 거주 목적의 생활**</mark>만 가능하며, <mark style="color:orange;">**표지판 잠금(표지판의 첫줄 \[잠금] 두번째 줄 닉네임 입력)**</mark> 으로 <mark style="color:orange;">**보호**</mark>할 수 있습니다.
 * <mark style="color:orange;">**나무/채집/낚시/광물/전투**</mark> 등의 다양한 방법으로 돈을 벌어보세요 :)
-* <mark style="color:orange;">**/셋홈**</mark>\*\* <mark style="color:green;">**\*\*\*\***</mark> 및 /홈\*\*\*\* 명령어**를 통해 중간 저장시 셋홈을 꼭 사용해주세요. 죽었다면** /dback\*\* 명령어로 해당 자리로 돌아갈 수 있습니다.
-* \*\*서버에서는 \*\*<mark style="color:orange;">**MCMMO**</mark>**가 적용되어 있습니다. 약초학/낚시/채광/벌목/검술 등 다양한 스텟을 쌓아보세요!**
+* <mark style="color:orange;">**/셋홈**</mark> 및 <mark style="color:orange;">**/홈**</mark> 명령어**를 통해 중간 저장시 셋홈을 꼭 사용해주세요. 죽었다면** /dback 명령어로 해당 자리로 돌아갈 수 있습니다.
+* 서버에서는 <mark style="color:orange;">**MCMMO**</mark>**가 적용되어 있습니다. 약초학/낚시/채광/벌목/검술 등 다양한 스텟을 쌓아보세요!**
 {% endtab %}
 
 {% tab title="⭐충분한 자원이 모였으면 그 다음은 집짓기!" %}
@@ -36,19 +36,9 @@
 * 집을 마련하였다면, 그 다음은 다채로운 서버 컨텐츠를 즐길 차례 !
 * 아래 가이드 항목에서 **다양한 가이드를 확인해보세요!**
 
-<mark style="color:orange;">**서버 가이드:**</mark> [broken-reference](../../.-.-.-./undefined/broken-reference/ "mention")<mark style="color:orange;">\*\*\*\*</mark>
+<mark style="color:orange;">**서버 가이드:**</mark> [broken-reference](../../.-.-.-./undefined/broken-reference/ "mention")
 
 ## **자주 묻는 질문**
-
-<details>
-
-<summary>Q. 리소스팩 적용이 제대로 안돼요!</summary>
-
-**A. 서버에 처음 들어오실 때에는 리소스팩을 물어보기 또는 허용으로 설정한 후 입장해주세요. 잘 모르실 경우, 튜토리얼을 참고하여 멀티플레이 메인 화면에서 수정 단추를 누르고 **<mark style="color:green;">**서버 리소스팩 사용을 허용**</mark>**으로 변경해주세요. 대부분의 경우에는 재 접속 시 리소스팩이 적용됩니다.**
-
-**A. 이모티콘 및 칭호 설정, 오른쪽 스코어보드가 깨져 보일 경우, 설정-언어에서 **<mark style="color:green;">**유니코드 글꼴 강제 사용을 꺼짐**</mark>**으로 변경해주세요. 켜짐으로 설정하시면 정상적으로 보이지 않습니다.**
-
-</details>
 
 <details>
 
