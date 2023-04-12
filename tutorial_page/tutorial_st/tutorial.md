@@ -8,7 +8,7 @@ coverY: 0
 
 ### ⭐ 서버 특징
 
-* **1.19.2\~3 24시간 반야생 정품 서버**입니다.
+* **1.19.3\~4   24시간 반야생 정품 서버**입니다.
 * **죽어도 아이템을 잃지 않습니다.**
 * **부동산** 명령어를 통해 자신의 땅을 보호할 수 있습니다.
 * 자동줍기가 기본으로 적용되어 있으며, (**/자동줍기**)로 킬 수 있습니다.
@@ -24,42 +24,46 @@ coverY: 0
 * **네더월드를 제외한 다른 월드에서 리스폰 정박기 사용 불가**
 * **엔더월드에서 보트 사용 불가**
 
-***
+<figure><img src="../../.gitbook/assets/1구간.png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="warning" %}
-**아래는 구 튜토리얼이며, 구형 이미지를 사용하고 있습니다**
+<figure><img src="../../.gitbook/assets/3-1구간.png" alt=""><figcaption></figcaption></figure>
 
-* **수직탑, 그리핑은 현재 적용하지 않는 규칙입니다.**
-{% endhint %}
+<figure><img src="../../.gitbook/assets/3-2구간.png" alt=""><figcaption></figcaption></figure>
 
-![](../../.gitbook/assets/005.png)
-
-![](../../.gitbook/assets/006.png)
-
-![](../../.gitbook/assets/007.png)
+![](../../.gitbook/assets/5구간.png)
 
 {% content-ref url="../command.md" %}
 [command.md](../command.md)
 {% endcontent-ref %}
 
-![](../../.gitbook/assets/008.png)
+<figure><img src="../../.gitbook/assets/6-1구간.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/6-2구간.png" alt=""><figcaption></figcaption></figure>
 
 {% content-ref url="../../server/undefined-1/" %}
 [undefined-1](../../server/undefined-1/)
 {% endcontent-ref %}
 
-![](../../.gitbook/assets/009.png)
+![](../../.gitbook/assets/7구간.png)
 
 {% content-ref url="../../server/mcmmo.md" %}
 [mcmmo.md](../../server/mcmmo.md)
 {% endcontent-ref %}
 
-![](../../.gitbook/assets/010.png)
+<figure><img src="../../.gitbook/assets/8-1구간.png" alt=""><figcaption></figcaption></figure>
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="../../contents/undefined.md" %}
+[undefined.md](../../contents/undefined.md)
 {% endcontent-ref %}
+
+<figure><img src="../../.gitbook/assets/8-2구간.png" alt=""><figcaption></figcaption></figure>
 
 {% content-ref url="../../contents/fishing.md" %}
 [fishing.md](../../contents/fishing.md)
+{% endcontent-ref %}
+
+<figure><img src="../../.gitbook/assets/8-3구간.png" alt=""><figcaption></figcaption></figure>
+
+{% content-ref url="../../contents/cooking/" %}
+[cooking](../../contents/cooking/)
 {% endcontent-ref %}
