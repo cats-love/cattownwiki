@@ -197,7 +197,8 @@ coverY: 0
 * 단, /player (닉네임)명령어로 <mark style="color:green;">**마지막 접속 이후 30일**</mark>이 경과한 경우 <mark style="color:green;">**자신의 부동산 인접**</mark> \ <mark style="color:green;">**3청크 이내에 한해 부동산 삭제 요청**</mark>**을 할 수 있습니다.**\
   **(**_**단, 도시월드 및 마을월드 +-1500이내 신청불가**_**)**
 * **부지 사용을 위한 30일 경과한 부동산 제거 요청은 불가능합니다.**
-*
+* <mark style="color:green;">**타인에게 땅 권한이나 소유물에 대한 권리를 받았을 경우**</mark>, <mark style="color:orange;">**약탈 관련 처벌을 예방**</mark>하기 위한 <mark style="color:green;">**증빙자료 보관을 권장**</mark>합니다.
+* 로그조사시 약탈관련 정황이 발견 되었을 경우 <mark style="color:red;">**서버 규칙으로 처벌**</mark>하며, 이의제기시 <mark style="color:green;">**관리자가 증빙자료를 요청할 수 있습니다.**</mark>
 
 ### 『10. 거래 및 상점 』
 
