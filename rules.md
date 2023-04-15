@@ -55,7 +55,7 @@ coverY: 0
   ㄴ **한글 닉네임**은 <mark style="color:green;">**먼저 닉네임을 변경하신 분**</mark>께서 <mark style="color:green;">**우선권**</mark>을 가지고 있으며,\
   &#x20;    <mark style="color:green;">**/영닉 한글닉네임**</mark> 검색 시 <mark style="color:green;">**닉네임이 있는지 없는지 확인**</mark> 가능합니다
 * <mark style="color:green;">**가이드가 서버 내에 있을 시**</mark>** 전체채팅에서 **<mark style="color:red;">**타 유저의 채팅 지적을 금지**</mark>**합니다**\
-  ㄴ <mark style="color:orange;">**"지역채팅 이용해주세요" , "귓속말 이용해주세요"**</mark> 등\
+  ㄴ <mark style="color:orange;">**"지역채팅 이용해주세요" "귓속말 이용해주세요" "구걸 하지마세요" "확성기 이용해주세요"**</mark> 등\
   ㄴ **적발 시 **<mark style="color:red;">**뮤트\~경고 1점**</mark>**을 부여합니다**&#x20;
 
 ### 『2. 핵/프로그램/변조/버그악용/테러』
