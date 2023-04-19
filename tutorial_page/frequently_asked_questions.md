@@ -46,11 +46,13 @@ description: 고냥이타운을 플레이하면서 유저분들이 많이 하는
 
 <details>
 
-<summary>Q.  땅 어떻게 늘려요? / 땅 어떻게 지정하나요? / 도시 마을월드에서 건축이 안돼요!</summary>
+<summary>Q.  땅 관련 질문에 대한 답변입니다</summary>
 
 * **부동산을 지정하는 방법은** [undefined-1](../server/undefined-1/ "mention") **을 참고해주세요.**
 * **땅을 늘리려면, 부동산 내부에서 **<mark style="color:orange;">**/res expand (숫자)**</mark>**를 입력하면 바라보는 방향으로 숫자만큼 땅이 확장됩니다**
 * <mark style="color:orange;">**영역보호 금삽을 잃어버리더라도, 일반 금삽으로 영역보호를 할 수 있습니다.**</mark>
+* **마을을 만들기 전에 **<mark style="color:orange;">**무조건 땅부터 구매**</mark>** 후 마을을 만들어주세요!**\
+  ㄴ **땅은 판매 시 돈이 돌아오지만, 마을은 돈이 돌아오지않습니다!**
 
 </details>
 
