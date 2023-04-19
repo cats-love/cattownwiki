@@ -10,7 +10,7 @@ coverY: 0
 
 <figure><img src="../.gitbook/assets/image (56).png" alt=""><figcaption><p>페인트는 조합으로 획득할 수 있습니다</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>페인트 조합법은 /레시피 명령어로도 볼 수 있습니다</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>페인트 조합법은 /레시피 명령어로도 볼 수 있습니다</p></figcaption></figure>
 
 > 🖌️ 페인트란 무엇인가요?
 

@@ -27,13 +27,13 @@ coverY: 0
 그림을 그리는데 필요한 염료와 도구는 **이젤에 앉으면 기본으로 제공**됩니다. 각각의 염료와 도구를 인벤토리에 가져와 손에 든채로 **캔버스에 좌클릭 / 우클릭**으로 그림을 그릴 수 있습니다.\
 <mark style="color:green;">**(좌클릭 - 점 찍기, 우클릭 - 선 그리기)**</mark>
 
-| 아이콘                                                 | 역할       | 설명                                                                                                                   |
-| --------------------------------------------------- | -------- | -------------------------------------------------------------------------------------------------------------------- |
-| ![](../.gitbook/assets/Feather\_JE3\_BE2.webp)      | **밝게**   | **좌클릭/우클릭으로 **<mark style="color:green;">**색깔을**</mark>**  **<mark style="color:green;">**밝게**</mark>** 할 수 있습니다.**  |
-| ![](../.gitbook/assets/Coal\_JE4\_BE3.webp)         | **어둡게**  | **좌클릭/우클릭으로 **<mark style="color:green;">**색깔을**</mark>**  **<mark style="color:green;">**어둡게**</mark>** 할 수 있습니다.** |
-| ![](../.gitbook/assets/Compass\_JE3\_BE3.webp)      | **회전**   | \*\*좌클릭/우클릭으로 \*\*<mark style="color:green;">**그림을 회전**</mark>**시킬 수 있습니다.**                                         |
-| ![](../.gitbook/assets/Bucket\_JE2\_BE2.webp)       | **채우기**  | **염료 아이템을 왼손에 든 상태에서 우클릭으로 **<mark style="color:green;">**영역의 색깔을 채울 수**</mark>** 있습니다.**                            |
-| ![](<../.gitbook/assets/Sponge\_JE3\_BE3 (1).webp>) | **스포이드** | \*\*좌클릭으로 이젤에 쓰인 \*\*<mark style="color:green;">**색깔을 선택**</mark>**하고, 우클릭으로 그릴 수 있습니다.**                            |
+| 아이콘                                                 | 역할       | 설명                                                                                                              |
+| --------------------------------------------------- | -------- | --------------------------------------------------------------------------------------------------------------- |
+| ![](../.gitbook/assets/Feather\_JE3\_BE2.webp)      | **밝게**   | **좌클릭/우클릭으로 **<mark style="color:green;">**색깔을**</mark> <mark style="color:green;">**밝게**</mark>** 할 수 있습니다.**  |
+| ![](../.gitbook/assets/Coal\_JE4\_BE3.webp)         | **어둡게**  | **좌클릭/우클릭으로 **<mark style="color:green;">**색깔을**</mark> <mark style="color:green;">**어둡게**</mark>** 할 수 있습니다.** |
+| ![](../.gitbook/assets/Compass\_JE3\_BE3.webp)      | **회전**   | \*\*좌클릭/우클릭으로 \*\*<mark style="color:green;">**그림을 회전**</mark>**시킬 수 있습니다.**                                    |
+| ![](../.gitbook/assets/Bucket\_JE2\_BE2.webp)       | **채우기**  | **염료 아이템을 왼손에 든 상태에서 우클릭으로 **<mark style="color:green;">**영역의 색깔을 채울 수**</mark>** 있습니다.**                       |
+| ![](<../.gitbook/assets/Sponge\_JE3\_BE3 (1).webp>) | **스포이드** | \*\*좌클릭으로 이젤에 쓰인 \*\*<mark style="color:green;">**색깔을 선택**</mark>**하고, 우클릭으로 그릴 수 있습니다.**                       |
 
 ### 그림 저장하기
 
@@ -50,7 +50,7 @@ coverY: 0
 
 <figure><img src="../.gitbook/assets/2023-03-11_19.47.25.png" alt=""><figcaption><p>유저간 이루어지는 미술작품 경매 (스텔라 경매장)</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>디스코드 그림공간을 활용하여 나만의 그림 자랑하기</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>디스코드 그림공간을 활용하여 나만의 그림 자랑하기</p></figcaption></figure>
 
 그림은 **액자** 또는 작물코인 상점에서 판매하는 **투명액자 / 발광 투명액자**를 이용하여 다양한 장식 및 조형물로 활용할 수 있습니다. 또한, 블록을 활용하여 이젤을 겹쳐 설치할 수 있으며, 대형 그림을 제작할 수 있습니다.
 
