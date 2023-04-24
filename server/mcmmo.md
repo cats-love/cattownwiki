@@ -6,6 +6,10 @@ coverY: 0
 # ⚔️ 스킬 (MCMMO)
 
 {% hint style="info" %}
+<mark style="color:blue;">**야생월드와 마을월드 파티는 연동이 되지않으며,**</mark> <mark style="color:orange;">**야생월드에서 파티경험치 공유 시**</mark>** 야생월드에서 **<mark style="color:orange;">**한번 더 파티를 초대**</mark>**하셔야 합니다.**
+{% endhint %}
+
+{% hint style="info" %}
 <mark style="color:green;">**커스텀 뉴작물**</mark>**과 **<mark style="color:blue;">**커스텀 낚시**</mark>**는 **<mark style="color:purple;">**파티 경험치**</mark>**가 **<mark style="color:red;">**오르지 않습니다!**</mark>
 {% endhint %}
 
