@@ -49,6 +49,7 @@ coverY: 0
 * **거래 및 구인구직** 등은 <mark style="color:green;">**확성기\[/확성기 (할말)]를 사용**</mark>하여야 합니다.\
   ㄴ확성기를 거래 및 구인구직 등 홍보 목적 을 제외한 다른 목적으로 사용 시  <mark style="color:red;">**경고**</mark>를 부여합니다.
 * <mark style="color:green;">**커스텀 표지판에 있는 내용**</mark>과 <mark style="color:green;">**/e 명령어**</mark>에 있는 <mark style="color:red;">**내용 사용 시**</mark><mark style="color:red;">** **</mark><mark style="color:red;"><mark style="color:red;">**경고**<mark style="color:red;"></mark>를 부여합니다.
+* <mark style="color:green;">**서버 리소스팩 특수기호**</mark>를 <mark style="color:red;">**전체채팅과 확성기에서 사용 시 경고**</mark>를 부여합니다
 * **한글 닉네임**은 <mark style="color:red;">**중복이 불가능**</mark>하며, <mark style="color:green;">**칭호**</mark>는 <mark style="color:green;"><mark style="color:red;">**서로 합의**<mark style="color:red;"></mark>하에 <mark style="color:green;">**중복으로 설정**</mark> 가능합니다\
   ㄴ <mark style="color:green;">**한글닉네임 변경 시**</mark> 닉네임이 <mark style="color:green;">**중복**</mark>인지 확인 부탁드리며, \
   &#x20;    <mark style="color:red;">**악의적인 변경 시 경고**</mark>가 부여됩니다.\
