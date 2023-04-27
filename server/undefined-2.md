@@ -1,3 +1,7 @@
+---
+coverY: 0
+---
+
 # 🪙 경제
 
 1. 추천코인 (추천)
@@ -39,9 +43,7 @@
 
 7\. 낚시코인
 
-<figure><img src="../.gitbook/assets/낚시코인.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2023-04-27_19.19.36.png" alt=""><figcaption></figcaption></figure>
 
 * 낚시를 하면 낮은 확률로 획득 가능합니다.
 * 낚시 아이템 혹은 치장 아이템으로 교환이 가능합니다.
-
-8. 잠수 포인트
