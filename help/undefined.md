@@ -56,7 +56,7 @@ coverY: 0
 
 <figure><img src="../.gitbook/assets/image (156).png" alt=""><figcaption></figcaption></figure>
 
-* **인게임 이미지는 디스코드 《🐱ㆍ후원역할-신청》** \*\*게시판을 통해 \*\*<mark style="color:orange;">**최대 3개까지 추가 가능**</mark>**하며, 블록 7x7 사이즈 이하만 가능합니다.**
+* **인게임 이미지는 디스코드 《🐱ㆍ후원역할-신청》** **게시판을 통해 **<mark style="color:orange;">**최대 3개까지 추가 가능**</mark>**하며, 블록 7x7 사이즈 이하만 가능합니다.**
 * **서버 규칙을 위반하는 이미지 신청 시 보류 및 취소될 수 있습니다.**
 
 ***
@@ -196,5 +196,9 @@ coverY: 0
 * **무기스킨도 포함하여 지급합니다.**
 
 <figure><img src="../.gitbook/assets/image (74) (1).png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="🐉드레곤" %}
+곧 추가 예정 !&#x20;
 {% endtab %}
 {% endtabs %}
