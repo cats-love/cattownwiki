@@ -10,12 +10,6 @@ coverY: 0
 * 모든 엔티티가 화면에서 클라이언트에서사라지는 오류가 있으며, 이는 클라이언트 자체의 오류입니다.
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/2022-08-15_00.45.06.png" alt=""><figcaption><p>고냥이타운 신도시 수영장</p></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption><p>새로운 낚시 이펙트</p></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/unknown (1).png" alt=""><figcaption><p>고냥이 타운만의 커스텀 낚시바</p></figcaption></figure>
-
 > 🐳 고냥이타운 낚시 시스템
 
 * 고냥이타운의 낚시 시템은 물고기를 낚을 때 낚시 에 맞춰 정확하게 해당 부분에 우 클릭하여 낚시에 성공할 수 있습니다.
