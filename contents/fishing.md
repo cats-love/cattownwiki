@@ -26,21 +26,11 @@ coverY: 0
 
 > 커스텀 낚싯대
 
-<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption><p>은, 금 낚싯대</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/낚싯대.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (97).png" alt=""><figcaption><p>물고기 미끼, 나뭇잎, 별 낚싯대</p></figcaption></figure>
-
-서버 내에는 5가지 커스텀 낚싯대 (은, 금, 나뭇잎, 고양이, 별)을 획득할 수 있습니다
-
-* 기본 낚싯대 : 마인크래프트 기본 낚싯대이며, 낚시 시스템이 적용됩니다.
-* 은, 금 낚싯대 : 서버 상점에서 판매하며, 각각 물고기를 5%, 10% 빠르게 낚을 수 있는 대신, 난이도가 증가합니다.
-* 나뭇잎 낚싯대: 낚시코인으로 획득할 수 있으며, 물고기를 10% 빠르게 낚을 수 있습니다.
-* 고양이 낚싯대: 추천코인으로 획득할 수 있으며, 난이도가 1 하락하고 물고기를 5% 빠르게 낚을 수 있습니다.
-* 별 낚싯대: 낚시코인으로 획득할 수 있으며, 용암에서 낚시가 가능하고 물고기를 10% 빠르게 낚을 수 있습니다.
+* 서버의 커스텀 낚싯대 5종류이며, 도시월드 교환소에서 교환 가능합니다.
 
 > 미끼
-
-<figure><img src="../.gitbook/assets/2022-10-30_06.01.07.png" alt=""><figcaption></figcaption></figure>
 
 미끼는 물고기를 낚을 확률을 증가시키며, 낚시가방 또는 왼손에 미끼를 들어 사용할 수 있습니다. 소모 시 미끼가 물려진 채로 던져집니다.
 
@@ -48,6 +38,8 @@ coverY: 0
 * 물고기 미끼 - 낚시코인으로 획득할 수 있으며, 물고기를 30% 빠르게 낚을 수 있습니다.
 
 > 낚시 가방
+
+<figure><img src="../.gitbook/assets/미끼.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/unknown (5).png" alt=""><figcaption></figcaption></figure>
 
