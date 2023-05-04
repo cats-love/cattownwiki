@@ -32,14 +32,14 @@ coverY: 0
 
 > 미끼
 
+<figure><img src="../.gitbook/assets/미끼.png" alt=""><figcaption></figcaption></figure>
+
 미끼는 물고기를 낚을 확률을 증가시키며, 낚시가방 또는 왼손에 미끼를 들어 사용할 수 있습니다. 소모 시 미끼가 물려진 채로 던져집니다.
 
 * 일반 미끼 - 상점에서 판매하며, 물고기를 15% 빠르게 낚을 수 있지만, 난이도가 1 증가합니다.
 * 물고기 미끼 - 낚시코인으로 획득할 수 있으며, 물고기를 30% 빠르게 낚을 수 있습니다.
 
 > 낚시 가방
-
-<figure><img src="../.gitbook/assets/미끼.png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/unknown (5).png" alt=""><figcaption></figcaption></figure>
 
