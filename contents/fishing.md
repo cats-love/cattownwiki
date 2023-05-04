@@ -17,6 +17,13 @@ coverY: 0
 * 바이옴 및 날씨에 따라 다양한 커스텀 물고기를 낚을 수 있습니다.
 * 매일 오후 6시와 10시에 낚시대회가 열립니다.
 
+> 커스텀 물고기
+
+* 커스텀 물고기는 바이옴마다 낚을 수 있는 물고기가 다릅니다.
+* 아래 사진 참고하여 어느 바이옴에서 해당 물고기를 낚을 수 있는지 알아보세요.
+
+<figure><img src="../.gitbook/assets/낚시 물고기.png" alt=""><figcaption></figcaption></figure>
+
 > 커스텀 낚싯대
 
 <figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption><p>은, 금 낚싯대</p></figcaption></figure>
