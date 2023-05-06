@@ -16,6 +16,8 @@ coverY: 0
 * 바닐라, MCMMO, 커스텀 물고기 모두가 등장하며, 커스텀 물고기 및 보물을 낚을 시에 경험치를 획득할 수 있습니다.
 * 바이옴 및 날씨에 따라 다양한 커스텀 물고기를 낚을 수 있습니다.
 
+<figure><img src="../.gitbook/assets/오버월드2.gif" alt=""><figcaption></figcaption></figure>
+
 > 커스텀 물고기
 
 * 커스텀 물고기는 바이옴마다 낚을 수 있는 물고기가 다릅니다.
@@ -50,19 +52,18 @@ coverY: 0
 <figure><img src="../.gitbook/assets/낚시대회.PNG" alt=""><figcaption></figcaption></figure>
 
 * 낚시대회는 매일 오후 6시와 10시에 열립니다
-*
+* 1등은 <mark style="color:blue;">**낚시코인 교환쿠폰 3개**</mark> / 2등은 <mark style="color:blue;">**낚시코인 교환쿠폰 2개**</mark> / 3등은 <mark style="color:blue;">**낚시코인 교환쿠폰 1개**</mark> 가\
+  지급됩니다.
 
 > 낚시상점
 
-<figure><img src="../.gitbook/assets/unknown (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/낚시상점.gif" alt=""><figcaption></figcaption></figure>
 
 * 낚시상점 시스템은 `/낚시상점 /물고기` 명령어로 사용할 수 있으며, 물고기 판매상 안에 판매할 물고기를 넣고 버튼을 클릭하면 판매됩니다
 
 > 지옥 낚시
 
-<figure><img src="../.gitbook/assets/SPOILER_unknown.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/SPOILER_unknown (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/지옥월드2.gif" alt=""><figcaption></figcaption></figure>
 
 * 별 낚싯대를 이용하면 지옥에서 낚시를 할 수 있습니다.
 * 지옥에 맞는 다양한 아이템(흑요석, 시계, 철 조각, 금 조각, 시계, 신비한 물고기 + MCMMO 보물) 등이 드롭됩니다.
