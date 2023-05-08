@@ -11,6 +11,10 @@ coverY: 0
 
 <figure><img src="../../.gitbook/assets/image (172).png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="warning" %}
+**마을을 생성하기 전에 **<mark style="color:orange;">**꼭 땅부터 생성 후**</mark>** 마을을 만들어주세요!**
+{% endhint %}
+
 > **부동산 🏠**
 
 **토지 구매 가격: 땅 1칸당 5원, 청크당 약 1280원 \*Y축(Y-64\~320) 포함**
