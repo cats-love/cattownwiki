@@ -163,7 +163,7 @@ coverY: 0
 * 주민이 위치한 청크를 기준으로 상하좌우/대각선 포함 1청크를 띄워야 합니다.
 * 반경 **16블록 이내 몹이 5마리 이상 있을 경우 자동 제거됩니다.**
 
-<figure><img src=".gitbook/assets/주민청ㅋ트 (1).png" alt=""><figcaption><p>갈색 - 주민이 현재 위치 하는 곳 / 회색 - 주민을 위치 할 수 없는 곳 / 연두색 - 주민을 위치 시킬 수 있는 곳</p></figcaption></figure>
+<figure><img src=".gitbook/assets/31_1.gif" alt=""><figcaption></figcaption></figure>
 
 ### 『7. 몹공장 및 네더천장』
 
