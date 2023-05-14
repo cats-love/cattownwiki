@@ -10,7 +10,7 @@ description: 서버 내 다양한 건축물을 만나볼 수 있는 웹지도를
 해당 월드는 한달 간격으로 초기화되며 청크가 자주 변경되는 월드입니다.
 {% endhint %}
 
-<figure><img src=".gitbook/assets/image (100).png" alt=""><figcaption><p>고냥이타운 웹지도 </p></figcaption></figure>
+<figure><img src=".gitbook/assets/웹지도 설명.png" alt=""><figcaption><p>사진을 클릭하면 확대해서 볼 수 있어요!</p></figcaption></figure>
 
 * 웹지도 열기
 
