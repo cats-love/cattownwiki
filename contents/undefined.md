@@ -46,13 +46,4 @@ coverY: 0
 
 > 🍇 농작물의 종류
 
-<figure><img src="../.gitbook/assets/바나나.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/양배추.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/옥수수.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/가지.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/양파.png" alt=""><figcaption></figcaption></figure>
-
+현재 제작중이며, 5월 안으로 업데이트 예정.
