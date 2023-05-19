@@ -6,8 +6,8 @@ description: 서버 내 각종 명령어들에 대해 다룹니다
 
 ### 🌟기본 명령어
 
-* **Shift+F, /apsb : 메뉴창을 GUI로 오픈합니다. (/메뉴)**
-* **/자동줍기 : 아이템 자동줍기를 키거나 끌수 있습니다.**
+* <mark style="color:blue;">**Shift+F**</mark>**, **<mark style="color:blue;">**/apsb**</mark>** : 메뉴창을 GUI로 오픈합니다. (/메뉴)**
+* <mark style="color:blue;">**/자동줍기**</mark>** : 아이템 자동줍기를 키거나 끌수 있습니다.**
 
 ### 🚶이동 명령어
 
