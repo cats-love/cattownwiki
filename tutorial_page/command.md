@@ -66,6 +66,8 @@ description: 서버 내 각종 명령어들에 대해 다룹니다
 * <mark style="color:blue;">**/경계선 토글**</mark> : 경계선을 활성화하거나 비활성화할 수 있습니다.
 * <mark style="color:blue;">**/res subzone \[땅이름] \[서브존이름]**</mark> : 부동산 안에 서브존을 설정 할 수 있습니다.
 * <mark style="color:blue;">**/res remove \[땅이름.서브존이름]**</mark> : 서브존 땅의 비용을 돌려받고, 서브존을 삭제합니다.
+* <mark style="color:blue;">**/res message \[땅이름] enter \[입장문구]**</mark> : \[땅이름] 의 입장 할 때 뜨는 문구를 변경할 수 있습니다.
+* <mark style="color:blue;">**/res message \[땅이름] leave \[입장문구]**</mark> : \[땅이름] 의 퇴장 할 때 뜨는 문구를 변경할 수 있습니다.
 
 > <mark style="color:green;">**/땅 도움말**</mark> 명령어로도 확인하실 수 있습니다.
 >
