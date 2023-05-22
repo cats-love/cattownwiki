@@ -24,7 +24,6 @@ description: 고냥이타운을 위하여 열심히 일하는 관리자분들께
 <figure><img src=".gitbook/assets/PLANNER.png" alt=""><figcaption></figcaption></figure>
 
 * **헤레아**\
-  \- PLANNER의 팀장을 맡고 있습니다.\
   \- 고냥이타운의 전반적인 컨텐츠 기획을 담당하고 있습니다.
 * **클레드**\
   \- 고냥이타운의 컨텐츠 기획과 밸런스를 담당하고 있습니다.\
