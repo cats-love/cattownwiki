@@ -5,6 +5,7 @@
 * [😽 디스코드](discord.md)
 * [🌍 웹지도](web\_map.md)
 * [📢 업데이트 & 패치](update.md)
+* [🛠 서버 관리자](undefined.md)
 
 ## ══.·:·.☽✧튜토리얼 ✧☾.·:·.══ <a href="#tutorial_page" id="tutorial_page"></a>
 
