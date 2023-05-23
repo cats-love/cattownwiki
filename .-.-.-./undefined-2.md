@@ -6,6 +6,10 @@ coverY: 0
 
 # 🎲 보드게임
 
+{% hint style="danger" %}
+#### 보드게임의 오류가 확인되어 서버에서 해결이 되기 전까지는 보드게임 사용이 불가능합니다.
+{% endhint %}
+
 <figure><img src="../.gitbook/assets/2023-03-27_18.47.34.png" alt=""><figcaption><p>신도시 스폰 앞 위치한 보드게임 NPC</p></figcaption></figure>
 
 ## 보드게임
