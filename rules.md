@@ -165,7 +165,7 @@ coverY: 0
 * 주민이 위치한 청크를 기준으로 상하좌우/대각선 포함 1청크를 띄워야 합니다.
 * 반경 **16블록 이내 몹이 5마리 이상 있을 경우 자동 제거됩니다.**
 
-<figure><img src=".gitbook/assets/31_1.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/31_1.gif" alt=""><figcaption><p><mark style="color:blue;"><strong>한 청크</strong></mark>에 주민이 <mark style="color:blue;"><strong>한 마리라도 있으면</strong></mark> 무조건 <mark style="color:blue;"><strong>한 청크 띄우셔야</strong></mark> 합니다</p></figcaption></figure>
 
 ### 『7. 몹공장 및 네더천장』
 
@@ -201,7 +201,7 @@ coverY: 0
 
 * **부동산 생성 시 **<mark style="color:green;">**개인 / 마을 간 부동산의 거리는 최소 48블록(3청크)이상을 유지**</mark>**하여야 합니다.**\
   **(단, 도시월드 및 마을월드 스폰 좌표 +-1500 지역은 제외하며, 인접 부동산이 자신의 부동산이거나 합의된 경우 예외로 합니다.)**
-* **청크간 거리 미준수 등으로 신고 처리가 들어온 경우 표지판 부착 및 거리 유지를 요청할 수 있으며, **<mark style="color:green;">**고지를 한 날로부터 3일 이내**</mark>**에 적절한 조치를 취하여야 합니다.**
+* **청크간 거리 미준수 등으로 신고 처리가 들어온 경우 표지판 부착 및 거리 유지를 요청할 수 있으며, **<mark style="color:green;">**고지를 한 날로부터 3일 이내**</mark>**에 적절한 조치를 취하여야 합니다.**&#x20;
 
 **🌳 만약, 지역보호가 풀린 부동산을 발견하였다면?**
 
