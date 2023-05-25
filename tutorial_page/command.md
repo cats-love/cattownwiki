@@ -143,7 +143,7 @@ description: 서버 내 각종 명령어들에 대해 다룹니다
 * <mark style="color:blue;">**/스코어보드**</mark> : 스코어보드를 켜거나 끌 수 있습니다.
 * <mark style="color:blue;">**/정렬**</mark> : 인벤토리 및 상자를 정리할수 있는 창을 켜거나 끌 수 있습니다.
 * <mark style="color:blue;">**/내구도알림**</mark> : 다이아, 네더라이트 장비류에 내구도 알림을 켜거나 끌 수 있습니다.
-* <mark style="color:blue;">**/로그조사**</mark> : 블럭의 로그조사를 키거나 끌 수 있습니다.
+* <mark style="color:blue;">**/로그조사**</mark> : 블럭의 로그조사를 키거나 끌 수 있습니다. **(/co i)**
 * <mark style="color:blue;">**/차단 \[닉네임]**</mark> : 해당 유저를 차단하거나 해제합니다.
 * <mark style="color:blue;">**/확성기끄기 /확성기켜기**</mark> : 확성기 알림을 끄거나 켭니다. (띄어서 쓰면 안됩니다)
 * <mark style="color:blue;">**/추천알림**</mark> : 추천을 못했을 때 뜨는 메세지를 켜거나 끌 수 있습니다.
