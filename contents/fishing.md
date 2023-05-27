@@ -51,7 +51,7 @@ coverY: 0
 
 <figure><img src="../.gitbook/assets/낚시대회.PNG" alt=""><figcaption></figcaption></figure>
 
-* 낚시대회는 매일 오후 6시와 10시에 열립니다
+* 낚시대회는 매일 오후 6시와 10시에 열리며 10분동안 진행됩니다.
 * 1등은 <mark style="color:blue;">**낚시코인 교환쿠폰 3개**</mark> / 2등은 <mark style="color:blue;">**낚시코인 교환쿠폰 2개**</mark> / 3등은 <mark style="color:blue;">**낚시코인 교환쿠폰 1개**</mark> 가\
   지급됩니다.
 
