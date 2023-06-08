@@ -35,5 +35,3 @@
 
 * 집을 마련하였다면, 그 다음은 다채로운 서버 컨텐츠를 즐길 차례 !
 * 아래 가이드 항목에서 **다양한 가이드를 확인해보세요!**
-
-<mark style="color:orange;">**서버 가이드:**</mark> [broken-reference](../../.-.-.-./undefined/broken-reference/ "mention")
