@@ -146,7 +146,6 @@ description: 서버 내 각종 명령어들에 대해 다룹니다
 * <mark style="color:blue;">**/로그조사**</mark> : 블럭의 로그조사를 키거나 끌 수 있습니다. **(/co i)**
 * <mark style="color:blue;">**/차단 \[닉네임]**</mark> : 해당 유저를 차단하거나 해제합니다.
 * <mark style="color:blue;">**/확성기끄기 /확성기켜기**</mark> : 확성기 알림을 끄거나 켭니다. (띄어서 쓰면 안됩니다)
-* <mark style="color:blue;">**/추천알림**</mark> : 추천을 못했을 때 뜨는 메세지를 켜거나 끌 수 있습니다.
 * <mark style="color:blue;">**/한닉변경 \[한글닉네임]**</mark> : 원하시는 한글 닉네임으로 변경할 수 있습니다. (한글 5글자, 영어 6글자)
 * <mark style="color:blue;">**/색닉생성기**</mark> : 기존 닉네임이나 변경하신 한글 닉네임에 색을 추가할 수 있습니다.
 * <mark style="color:blue;">**/칭호생성기**</mark> : 원하시는 칭호로 설정하실 수 있습니다. (한글 5글자, 영어 6글자)
