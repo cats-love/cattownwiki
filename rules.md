@@ -116,7 +116,7 @@ coverY: 0
 
 * **모든 부계정은 금지합니다.** <mark style="color:green;">**(가족계정의 경우, 아래 링크로 닉네임과 함께 문의)**</mark>\ <mark style="color:green;">**ㄴ**</mark>[<mark style="color:green;">**https://cattown.channel.io/lounge**</mark>](https://cattown.channel.io/lounge)&#x20;
 
-『4. 특정 플레이어에 의한 지속적 피해 발생』
+### 『4. 특정 플레이어에 의한 지속적 피해 발생』
 
 {% hint style="warning" %}
 관리자는 **논의를 통해 적절한 제재**를 가할 수 있으며, <mark style="color:red;">**1\~5점의 경고**</mark>를 부여합니다.
