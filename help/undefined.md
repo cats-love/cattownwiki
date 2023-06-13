@@ -198,8 +198,4 @@ coverY: 0
 
 <figure><img src="../.gitbook/assets/image (74) (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
-
-{% tab title="🐉드레곤" %}
-곧 추가 예정 !&#x20;
-{% endtab %}
 {% endtabs %}
