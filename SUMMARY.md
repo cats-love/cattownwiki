@@ -47,7 +47,7 @@
 * [🐤 표지판 커스텀](contents/custom\_sign.md)
 * [🦊 동물 / 몬스터](contents/entities.md)
 * [😈몹머리 / 머리 / 수리](contents/head\_repair.md)
-* [🐈 펫](contents/undefined-9.md)
+* [🐈 펫](contents/pet.md)
 * [👑 치장](contents/undefined-7/README.md)
   * [👒 모자 / 등장식 / 풍선](contents/undefined-7/undefined.md)
   * [🥼 커스텀 갑옷](contents/undefined-7/undefined-2.md)
