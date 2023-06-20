@@ -74,15 +74,13 @@ coverY: 0
 **누적 후원 50000\~145000원** 달성 시 **역할 및 권한이 지급**됩니다.
 {% endhint %}
 
-<mark style="background-color:purple;">\*\*\*\*</mark>
-
-🐾 \*\* \[<mark style="background-color:purple;">**🐾발자국]**</mark> 칭호 지급\*\*
+🐾  **\[**<mark style="background-color:purple;">**🐾발자국]**</mark>** 칭호 지급**
 
 * **5만원 이상 후원시, 발자국 칭호를 지급합니다.**
 
 ***
 
-🐾 \*\* <mark style="color:orange;">**커스텀 갑옷 스킨 사이버 세트**</mark> 교환 가능\*\*
+🐾  <mark style="color:orange;">**커스텀 갑옷 스킨 사이버 세트**</mark>** 교환 가능**
 
 * **무기스킨도 포함하여 지급합니다.**
 
@@ -118,17 +116,17 @@ coverY: 0
 
 ***
 
-<mark style="background-color:yellow;">**🐶**</mark>\*\* \[🐶강아지] 칭호 지급\*\*
+<mark style="background-color:yellow;">**🐶**</mark>** \[🐶강아지] 칭호 지급**
 
 * **15만원 이상 후원시, 강아지 칭호를 지급합니다.**
 
 ***
 
-<mark style="background-color:yellow;">**🐶**</mark>\*\* <mark style="color:orange;">**커스텀 겉날개 스킨**</mark> 교환 가능\*\*
+<mark style="background-color:yellow;">**🐶**</mark> <mark style="color:orange;">**커스텀 겉날개 스킨**</mark> 교환 가능
 
 ![](<../.gitbook/assets/image (128).png>)
 
-<mark style="background-color:yellow;">**🐶**</mark>\*\* 고급 파티클(/pp) 사용 가능\*\*
+<mark style="background-color:yellow;">**🐶**</mark> 고급 파티클(/pp) 사용 가능
 
 <figure><img src="../.gitbook/assets/2022-12-19_19.42.42.png" alt=""><figcaption></figcaption></figure>
 
@@ -136,9 +134,9 @@ coverY: 0
 
 ***
 
-<mark style="background-color:yellow;">**🐶**</mark>\*\* 몹,동물 변장(/dis) 사용 가능\*\*
+<mark style="background-color:yellow;">**🐶**</mark> 몹,동물 변장(/dis) 사용 가능
 
-<figure><img src="../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (92).png" alt=""><figcaption><p><mark style="color:green;"><strong>/undis</strong></mark> 로 변신을 풀 수 있어요!</p></figcaption></figure>
 
 * **약 30+종의 다양한 바닐라 동물로 변장할 수 있습니다.**
 {% endtab %}
@@ -148,7 +146,7 @@ coverY: 0
 **누적 후원 300000\~495000원** 달성 시 **역할 및 권한이 지급**됩니다.
 {% endhint %}
 
-🦊 \*\* \[여우🦊] 칭호 지급\*\*
+🦊  \[여우🦊] 칭호 지급
 
 * **30만원 이상 후원시, 여우 칭호를 지급합니다. (그라데이션 적용)**
 
@@ -192,7 +190,7 @@ coverY: 0
 
 ***
 
-😺 <mark style="color:orange;">**커스텀 갑옷 스킨 레드 사이버 세트**</mark>\*\* 교환 가능\*\*
+😺 <mark style="color:orange;">**커스텀 갑옷 스킨 레드 사이버 세트**</mark> 교환 가능
 
 * **무기스킨도 포함하여 지급합니다.**
 
