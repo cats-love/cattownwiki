@@ -67,3 +67,7 @@ coverY: 0
 {% content-ref url="../../contents/cooking/" %}
 [cooking](../../contents/cooking/)
 {% endcontent-ref %}
+
+<figure><img src="../../.gitbook/assets/9구간ㅣ마지막 안내.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/특별구간.png" alt=""><figcaption></figcaption></figure>
