@@ -1,5 +1,6 @@
 ---
 description: 다양한 작물들을 만나보세요!
+cover: ../.gitbook/assets/2023-07-07_23.22.31_2.png
 coverY: 0
 ---
 
