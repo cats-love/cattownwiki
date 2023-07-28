@@ -14,7 +14,7 @@ coverY: 0
 
 ## 그림 그리기
 
-<figure><img src="../.gitbook/assets/Animation.gif" alt=""><figcaption></figcaption></figure>
+(art 그림그리는 사진 예시)&#x20;
 
 그림을 그리기 위해서는 **이젤과 캔버스**가 필요합니다. 작물코인 상점에서 구매할 수 있으며, 구매 후 자신의 부동산에서 **/res set** 명령어를 입력하고 <mark style="color:green;">**artmap-use 및 artmap-place 권한을 허용**</mark>해주어야 설치가 가능합니다.
 
@@ -46,9 +46,8 @@ coverY: 0
 
 ## 그림 활용하기
 
-<figure><img src="../.gitbook/assets/2023-03-11_19.24.46.png" alt=""><figcaption><p>그림을 사용하여 만든 영화관 포스터</p></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/2023-03-11_19.47.25.png" alt=""><figcaption><p>유저간 이루어지는 미술작품 경매 (스텔라 경매장)</p></figcaption></figure>
+(그림 활용 사진 - 건축물 )\
+(그림 활용 사진 - 기타)&#x20;
 
 <figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>디스코드 그림공간을 활용하여 나만의 그림 자랑하기</p></figcaption></figure>
 
@@ -56,7 +55,7 @@ coverY: 0
 
 *   **거래 게시판을 통해 작품을 거래하거나, 커미션을 받거나, 미술관을 만들거나, 바닥재나 벽재 장식으로 사용해 보세요 !**&#x20;
 
-
+    ***
 
 ## 변경사항
 
