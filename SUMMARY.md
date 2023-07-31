@@ -3,8 +3,6 @@
 * [😺 고냥이타운에 어서 오세요!](README.md)
 * [🔔 규칙](rules.md)
 * [😽 디스코드](discord.md)
-* [📢 업데이트 & 패치](update.md)
-* [🛠 서버 관리자](manager.md)
 
 ## ══.·:·.☽✧튜토리얼 ✧☾.·:·.══ <a href="#tutorial_page" id="tutorial_page"></a>
 
@@ -64,3 +62,4 @@
 * [💸 후원](help/undefined.md)
 * [✅ 추천](help/undefined-1.md)
 * [😺 문의](help/undefined-2.md)
+* [🛠 서버 관리자](help/manager.md)
