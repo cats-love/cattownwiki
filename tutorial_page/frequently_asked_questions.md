@@ -30,7 +30,7 @@ description: 고냥이타운을 플레이하면서 유저분들이 많이 하는
 
 <summary>Q.  자원월드는 언제 초기화 하나요?</summary>
 
-* <mark style="color:orange;">**매달 1일 오전 7시에 초기화**</mark>**되며, 초기화하는 일시는 약간씩 변동될 수 있습니다.**
+* <mark style="color:orange;">**매달 1일 오전 8시에 초기화**</mark>**되며, 초기화하는 일시는 약간씩 변동될 수 있습니다.**
 
 </details>
 
@@ -46,7 +46,7 @@ description: 고냥이타운을 플레이하면서 유저분들이 많이 하는
 
 <details>
 
-<summary>땅 늘리려면 어떻게 하나요? 금 삽을 잃어버렸는데 어떻게 얻나요?</summary>
+<summary>Q. 땅 늘리려면 어떻게 하나요? 금 삽을 잃어버렸는데 어떻게 얻나요?</summary>
 
 * **부동산을 지정하는 방법은** [undefined-1](../server/undefined-1/ "mention") **을 참고해주세요.**
 * **땅을 늘리려면, 부동산 내부에서 **<mark style="color:orange;">**/res expand (숫자)**</mark>**를 입력하면 바라보는 방향으로 숫자만큼 땅이 확장됩니다**
