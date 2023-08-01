@@ -63,3 +63,4 @@
 * [✅ 추천](help/undefined-1.md)
 * [😺 문의](help/undefined-2.md)
 * [🛠 서버 관리자](help/manager.md)
+* [📣 홈페이지 업데이트](<help/undefined (1).md>)
