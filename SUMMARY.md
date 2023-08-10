@@ -55,7 +55,7 @@
 * [🎨그림](.-.-.-./undefined.md)
 * [🎷 악기](.-.-.-./undefined-1.md)
 * [🎲 보드게임](.-.-.-./undefined-2.md)
-* [📕책상점](.-.-.-./undefined-3.md)
+* [📕 책상점](.-.-.-./undefined-3.md)
 
 ## ══.·:·.☽✧기타 ✧☾.·:·.══ <a href="#help" id="help"></a>
 

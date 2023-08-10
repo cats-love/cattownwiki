@@ -4,7 +4,7 @@ cover: ../.gitbook/assets/2023-03-11_16.53.43.png
 coverY: 0
 ---
 
-# 📕책상점
+# 📕 책상점
 
 <figure><img src="../.gitbook/assets/Animation (1).gif" alt=""><figcaption></figcaption></figure>
 
