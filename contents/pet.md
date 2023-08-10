@@ -6,11 +6,7 @@ description: 고냥이타운에서 나만의 귀여운 펫을 가지고 있다�
 
 > 펫 종류
 
-<div data-full-width="false">
-
-<figure><img src="../.gitbook/assets/1번.png" alt=""><figcaption><p>고냥이타운에서 구매할 수 있는 귀여운 펫이에요!</p></figcaption></figure>
-
-</div>
+<figure><img src="../.gitbook/assets/2번.png" alt=""><figcaption></figcaption></figure>
 
 > 펫 구매 방법
 
