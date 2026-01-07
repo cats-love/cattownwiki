@@ -6,10 +6,10 @@
 
 ## ══.·:·.☽✧튜토리얼 ✧☾.·:·.══ <a href="#tutorial_page" id="tutorial_page"></a>
 
-* [✨ 고냥이타운 시작하기](tutorial\_page/tutorial\_st/README.md)
-  * [🌟 튜토리얼](tutorial\_page/tutorial\_st/tutorial.md)
-* [✏️ 명령어](tutorial\_page/command.md)
-* [❓ 자주 묻는 질문](tutorial\_page/frequently\_asked\_questions.md)
+* [✨ 고냥이타운 시작하기](tutorial_page/tutorial_st/README.md)
+  * [🌟 튜토리얼](tutorial_page/tutorial_st/tutorial.md)
+* [✏️ 명령어](tutorial_page/command.md)
+* [❓ 자주 묻는 질문](tutorial_page/frequently_asked_questions.md)
 
 ## ══.·:·.☽✧시스템 ✧☾.·:·.══ <a href="#server" id="server"></a>
 
@@ -29,7 +29,7 @@
 * [🎣 낚시](contents/fishing.md)
 * [🍩 요리](contents/cooking/README.md)
   * [😺 토스트, 치즈, 구운 베이컨](contents/cooking/cook.md)
-  * [🍽 요리 도구](contents/cooking/utensils.md)
+  * [🍽️ 요리 도구](contents/cooking/utensils.md)
   * [🍴 요리 재료](contents/cooking/ingredients.md)
   * [🍧 빙과](contents/cooking/icecream.md)
   * [🍰 디저트](contents/cooking/dessert.md)
@@ -41,9 +41,9 @@
 * [🪑가구](contents/furniture/README.md)
   * [🧱 일반 가구](contents/furniture/general.md)
   * [🎑 정원 가구](contents/furniture/garden.md)
-* [🐤 표지판 커스텀](contents/custom\_sign.md)
+* [🐤 표지판 커스텀](contents/custom_sign.md)
 * [🦊 동물 / 몬스터](contents/entities.md)
-* [😈 몹머리 / 머리 / 수리](contents/head\_repair.md)
+* [😈 몹머리 / 머리 / 수리](contents/head_repair.md)
 * [🐈 펫](contents/pet.md)
 * [👑 치장](contents/undefined-7/README.md)
   * [👒 모자 / 등장식 / 풍선](contents/undefined-7/undefined.md)
@@ -52,15 +52,15 @@
 
 ## ══.·:·.☽✧ 예술/취미 ✧☾.·:·.══ <a href="#hobby" id="hobby"></a>
 
-* [🎨그림](.-.-.-./undefined.md)
-* [🎷 악기](.-.-.-./undefined-1.md)
-* [🎲 보드게임](.-.-.-./undefined-2.md)
-* [📕 책상점](.-.-.-./undefined-3.md)
+* [🎨그림](hobby/undefined.md)
+* [🎷 악기](hobby/undefined-1.md)
+* [🎲 보드게임](hobby/undefined-2.md)
+* [📕 책상점](hobby/undefined-3.md)
 
 ## ══.·:·.☽✧기타 ✧☾.·:·.══ <a href="#help" id="help"></a>
 
 * [💸 후원](help/undefined.md)
 * [✅ 추천](help/undefined-1.md)
 * [😺 문의](help/undefined-2.md)
-* [🛠 서버 관리자](help/manager.md)
+* [🛠️ 서버 관리자](help/manager.md)
 * [📣 홈페이지 업데이트](<help/undefined (1).md>)
