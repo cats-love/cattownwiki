@@ -6,3 +6,8 @@ coverY: 0
 
 # 🎷 악기
 
+{% embed url="https://youtu.be/2ctWloe5dRQ?si=CB9EqsjYppFVPJ-P" %}
+
+{% embed url="https://youtu.be/rJXnMARZG2Q?si=2Q2J5SGa7G8So3v0" %}
+
+{% embed url="https://youtu.be/Oo_6mlHXu64?si=d5x2qL04jiPKtXRO" %}
